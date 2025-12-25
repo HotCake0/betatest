@@ -3,21 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>깃발전쟁 팀별 멀티뷰</title>
+    <title>고래상사 LIVE 멀티뷰 (최종본)</title>
     <style>
         :root {
-            --bg-color: #0f0f0f;
+            --bg-dark: #0f0f0f;
             --card-bg: #1e1e1e;
-            --red-accent: #ff4d4d;
-            --blue-accent: #4d94ff;
-            --text-color: #ffffff;
-            --offline-color: #555555;
+            --accent-green: #00ffa3;
+            --text-white: #ffffff;
+            --text-gray: #aaaaaa;
         }
 
         body {
-            font-family: 'Pretendard', -apple-system, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
+            font-family: 'Pretendard', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-white);
             margin: 0;
             display: flex;
             flex-direction: column;
@@ -25,224 +24,213 @@
             overflow: hidden;
         }
 
-        #selector-container {
+        header {
             background-color: var(--card-bg);
-            display: flex;
-            flex-direction: column;
-            gap: 5px;
-            padding: 10px 20px;
-            border-bottom: 2px solid #333;
-        }
-
-        .team-row {
+            padding: 12px 20px;
             display: flex;
             align-items: center;
             gap: 15px;
-            min-height: 50px;
+            border-bottom: 2px solid #333;
+            z-index: 10;
         }
 
-        .team-label {
-            font-weight: bold;
-            font-size: 0.9rem;
-            min-width: 70px;
-            padding: 4px 8px;
-            border-radius: 4px;
-            text-align: center;
+        .live-dot {
+            width: 10px; height: 10px;
+            background-color: #ff4d4d;
+            border-radius: 50%;
+            display: inline-block;
+            animation: blink 1.5s infinite;
         }
+        @keyframes blink { 50% { opacity: 0.3; } }
 
-        .red-label { background-color: rgba(255, 77, 77, 0.2); color: var(--red-accent); }
-        .blue-label { background-color: rgba(77, 148, 255, 0.2); color: var(--blue-accent); }
-
-        .member-list {
+        #member-list {
             display: flex;
             gap: 10px;
             overflow-x: auto;
             padding-bottom: 5px;
         }
 
-        /* 멤버 카드 기본 스타일 */
-        .member-card {
+        .member-btn {
             display: flex;
             align-items: center;
             gap: 8px;
             background: #2a2a2a;
-            padding: 5px 10px;
-            border-radius: 6px;
-            cursor: pointer;
             border: 2px solid transparent;
+            padding: 6px 14px;
+            border-radius: 30px;
+            cursor: pointer;
             transition: 0.2s;
             white-space: nowrap;
         }
 
-        /* 오프라인 스타일: 회색조 및 클릭 방지 */
-        .member-card.offline {
+        /* [추가] 오프라인 스타일 */
+        .member-btn.offline {
             filter: grayscale(100%);
-            opacity: 0.5;
+            opacity: 0.4;
             cursor: not-allowed;
-            pointer-events: none; /* 클릭 이벤트 차단 */
+            pointer-events: none;
         }
 
-        .red-team .member-card.active { border-color: var(--red-accent); background: #3a1a1a; }
-        .blue-team .member-card.active { border-color: var(--blue-accent); background: #1a2a3a; }
+        .member-btn.active {
+            border-color: var(--accent-green);
+            background: #1a3a2a;
+        }
 
-        .thumb-mini {
-            width: 35px;
-            height: 22px;
+        .member-btn img {
+            width: 32px; height: 20px;
             object-fit: cover;
-            border-radius: 3px;
+            border-radius: 4px;
         }
 
-        .info-mini { display: flex; flex-direction: column; }
-        .name { font-size: 0.85rem; font-weight: bold; }
-        .viewers { font-size: 0.7rem; color: #aaa; }
+        .member-info { font-size: 0.85rem; font-weight: bold; }
+        .viewer-count { font-size: 0.7rem; color: var(--text-gray); font-weight: normal; }
 
-        /* 멀티뷰 그리드 */
         #view-grid {
             flex-grow: 1;
             display: grid;
             gap: 5px;
             padding: 5px;
-            background: #000;
+            background-color: #000;
         }
 
         .grid-1 { grid-template-columns: 1fr; }
         .grid-2 { grid-template-columns: 1fr 1fr; }
-        .grid-4 { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; }
-        .grid-6 { grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; }
-        .grid-9 { grid-template-columns: 1fr 1fr 1fr; grid-template-rows: repeat(3, 1fr); }
+        .grid-3, .grid-4 { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; }
 
-        .video-container {
-            position: relative;
-            width: 100%;
-            height: 100%;
-            background: #000;
-        }
-
+        .video-wrapper { position: relative; width: 100%; height: 100%; }
         iframe { width: 100%; height: 100%; border: none; }
 
-        .no-data {
+        .empty-msg {
             position: absolute;
             top: 50%; left: 50%;
             transform: translate(-50%, -50%);
-            color: #666;
+            color: #555;
+            text-align: center;
         }
     </style>
 </head>
 <body>
 
-    <div id="selector-container">
-        <div class="team-row red-team">
-            <div class="team-label red-label">RED TEAM</div>
-            <div id="red-member-list" class="member-list"></div>
+    <header>
+        <div style="min-width: 110px;">
+            <span class="live-dot"></span>
+            <strong style="font-size: 0.9rem; margin-left: 5px;">LIVE (<span id="count">0</span>/4)</strong>
         </div>
-        <div class="team-row blue-team">
-            <div class="team-label blue-label">BLUE TEAM</div>
-            <div id="blue-member-list" class="member-list"></div>
-        </div>
-    </div>
+        <div id="member-list"></div>
+    </header>
 
     <div id="view-grid" class="grid-1">
-        <div class="no-data">방송 중인 멤버를 선택해 주세요.</div>
+        <div class="empty-msg">
+            <h2>고래상사 멀티뷰</h2>
+            <p>방송 중인 멤버를 선택해 주세요. (최대 4명)</p>
+        </div>
     </div>
 
     <script>
-        // 선택된 멤버의 {id: url}을 저장할 Map
-        let selectedStreams = new Map();
-        let redTeamData = [];
-        let blueTeamData = [];
+        const MEMBER_NAMES = {
+            "joyjo2": "쪼이", "wkdghdtjr99": "여백이다", "niniming": "니니밍",
+            "doki0818": "감자가비", "khj011219": "기찬하", "015234": "아눙",
+            "isq1158": "구월이", "eun0333": "우미", "jjoasseo13": "죠아써",
+            "kayooo": "용아리", "rkdalstnld": "주드", "gtw0308": "황정민",
+            "star124": "하밍", "villlo": "왜냐니", "toocat030": "또오냥",
+            "xpdpfv2": "이지수", "rjsdnr115": "고채린", "yotsubakoe": "코에",
+            "etwo22": "이투", "o0opha": "서라0"
+        };
 
-        async function loadStatus() {
+        let selectedMembers = new Set();
+        let statusData = [];
+
+        async function fetchStatus() {
             try {
-                // 캐시 방지를 위해 타임스탬프 추가
+                // 캐시 방지를 위해 쿼리 스트링 추가
                 const ts = new Date().getTime();
                 const [redRes, blueRes] = await Promise.all([
                     fetch(`red_team_status.json?t=${ts}`),
                     fetch(`blue_team_status.json?t=${ts}`)
                 ]);
                 
-                redTeamData = await redRes.json();
-                blueTeamData = await blueRes.json();
+                const redData = await redRes.json();
+                const blueData = await blueRes.json();
+                statusData = [...redData, ...blueData];
                 
-                renderTeamSelector('red-member-list', redTeamData);
-                renderTeamSelector('blue-member-list', blueTeamData);
-            } catch (error) {
-                console.error("데이터 로드 실패:", error);
+                renderSelector();
+            } catch (err) {
+                console.error("데이터 로드 실패");
             }
         }
 
-        function renderTeamSelector(elementId, data) {
-            const listEl = document.getElementById(elementId);
-            listEl.innerHTML = '';
+        function renderSelector() {
+            const listContainer = document.getElementById('member-list');
+            listContainer.innerHTML = '';
 
-            data.forEach(member => {
-                const card = document.createElement('div');
-                // 방송 상태에 따른 클래스 부여
+            // 모든 멤버를 보여주되 오프라인은 grayscale 처리
+            statusData.forEach(member => {
+                const btn = document.createElement('div');
                 const isLive = member.is_live;
-                const isActive = selectedStreams.has(member.id);
-                
-                card.className = `member-card ${isLive ? '' : 'offline'} ${isActive ? 'active' : ''}`;
-                
-                // 방송 중일 때만 클릭 이벤트 연결
-                if (isLive) {
-                    card.onclick = () => toggleStream(member.id, member.live_url);
-                }
-                
-                // 썸네일과 뷰어 수 처리
-                const thumb = isLive ? member.thumbnail : 'https://via.placeholder.com/40x25?text=OFF';
-                const viewers = isLive ? `👤 ${member.viewers}` : 'OFFLINE';
+                const isActive = selectedMembers.has(member.id);
 
-                card.innerHTML = `
-                    <img class="thumb-mini" src="${thumb}" onerror="this.src='https://via.placeholder.com/40x25'">
-                    <div class="info-mini">
-                        <span class="name">${member.name}</span>
-                        <span class="viewers">${viewers}</span>
+                btn.className = `member-btn ${isLive ? '' : 'offline'} ${isActive ? 'active' : ''}`;
+                
+                if (isLive) {
+                    btn.onclick = () => toggleView(member.id);
+                }
+
+                const displayName = MEMBER_NAMES[member.id] || member.id;
+                const viewerText = isLive ? `👤 ${member.viewers.toLocaleString()}` : 'OFF';
+                const thumb = isLive ? member.thumbnail : 'https://via.placeholder.com/32x20?text=X';
+
+                btn.innerHTML = `
+                    <img src="${thumb}">
+                    <div class="member-info">
+                        <div>${displayName}</div>
+                        <div class="viewer-count">${viewerText}</div>
                     </div>
                 `;
-                listEl.appendChild(card);
+                listContainer.appendChild(btn);
             });
+            document.getElementById('count').innerText = selectedMembers.size;
         }
 
-        function toggleStream(id, liveUrl) {
-            if (selectedStreams.has(id)) {
-                selectedStreams.delete(id);
+        function toggleView(id) {
+            if (selectedMembers.has(id)) {
+                selectedMembers.delete(id);
             } else {
-                // live_url 주소를 embed용으로 변환하여 저장
-                const embedUrl = liveUrl.replace('play.sooplive.co.kr/', 'play.sooplive.co.kr/embed/');
-                selectedStreams.set(id, embedUrl);
+                if (selectedMembers.size >= 4) {
+                    alert("최대 4명까지만 선택 가능합니다.");
+                    return;
+                }
+                selectedMembers.add(id);
             }
-            renderTeamSelector('red-member-list', redTeamData);
-            renderTeamSelector('blue-member-list', blueTeamData);
+            renderSelector();
             updateGrid();
         }
 
         function updateGrid() {
-            const gridEl = document.getElementById('view-grid');
-            gridEl.innerHTML = '';
+            const gridContainer = document.getElementById('view-grid');
+            gridContainer.innerHTML = '';
+            const count = selectedMembers.size;
 
-            if (selectedStreams.size === 0) {
-                gridEl.innerHTML = '<div class="no-data">방송 중인 멤버를 선택해 주세요.</div>';
+            if (count === 0) {
+                gridContainer.innerHTML = '<div class="empty-msg"><p>선택된 방송이 없습니다.</p></div>';
                 return;
             }
 
-            const count = selectedStreams.size;
-            if (count === 1) gridEl.className = 'grid-1';
-            else if (count === 2) gridEl.className = 'grid-2';
-            else if (count <= 4) gridEl.className = 'grid-4';
-            else if (count <= 6) gridEl.className = 'grid-6';
-            else gridEl.className = 'grid-9';
+            // 원본에서 검증된 레이아웃 로직
+            gridContainer.className = count >= 3 ? 'grid-3' : count === 2 ? 'grid-2' : 'grid-1';
 
-            selectedStreams.forEach((url, id) => {
-                const container = document.createElement('div');
-                container.className = 'video-container';
-                container.innerHTML = `
-                    <iframe src="${url}" allowfullscreen></iframe>
+            selectedMembers.forEach(id => {
+                const wrapper = document.createElement('div');
+                wrapper.className = 'video-wrapper';
+                // [핵심] 원본의 안정적인 URL 구조 사용
+                wrapper.innerHTML = `
+                    <iframe src="https://play.sooplive.co.kr/${id}/embed" allowfullscreen scrolling="no"></iframe>
                 `;
-                gridEl.appendChild(container);
+                gridContainer.appendChild(wrapper);
             });
         }
 
-        loadStatus();
-        setInterval(loadStatus, 30000); // 30초마다 상태 업데이트
+        fetchStatus();
+        setInterval(fetchStatus, 30000); 
     </script>
 </body>
 </html>
