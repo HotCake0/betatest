@@ -29,6 +29,6 @@ jobs:
       - name: 변경사항 저장 및 커밋 (봇이 수행)
         run: |
           git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
-          git add status.json
+          git config --global user.email 'action@github. com'
+          git add red_team_status.json blue_team_status.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update live status" && git push)
