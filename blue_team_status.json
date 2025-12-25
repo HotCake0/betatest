@@ -2,11 +2,7 @@
     {
         "id": "rkdalstnld",
         "name": "주드",
-        "is_live": true,
-        "title": "주드 소통",
-        "viewers": 20,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290234448",
-        "live_url": "https://play.sooplive.co.kr/rkdalstnld/290234448"
+        "is_live": false
     },
     {
         "id": "gtw0308",
@@ -27,7 +23,7 @@
         "name": "왜냐니",
         "is_live": true,
         "title": "🎄도깨비 8화부터 안본 눈🎄 /  룰렛 33(방셀), 82(굿즈)",
-        "viewers": 27,
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290234582",
         "live_url": "https://play.sooplive.co.kr/villlo/290234582"
     },
@@ -36,7 +32,7 @@
         "name": "또오냥",
         "is_live": true,
         "title": "패들패들? 뜨겁게 노저을게 (w.재닌,베지,돗챠)",
-        "viewers": 78,
+        "viewers": 80,
         "thumbnail": "https://liveimg.afreecatv.com/m/290243312",
         "live_url": "https://play.sooplive.co.kr/toocat030/290243312"
     },
@@ -55,7 +51,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀영화보고 후열 크리스마스 (w.베지/한비) / 메리 꾸리스마스🎄 / 그캠단체방셀 3천개🎤",
-        "viewers": 35,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290238042",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290238042"
     },
@@ -73,7 +69,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 메리 크리스마스",
-        "viewers": 31,
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290236220",
         "live_url": "https://play.sooplive.co.kr/o0opha/290236220"
     }

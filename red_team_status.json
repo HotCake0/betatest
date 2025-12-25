@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "크리스마스 음주벽킬내기 쪼이",
-        "viewers": 59,
+        "viewers": 62,
         "thumbnail": "https://liveimg.afreecatv.com/m/290233678",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290233678"
     },
@@ -27,7 +27,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]메리크리스마스!방셀 1225개ㅜ.ㅜ w.쏭이",
-        "viewers": 32,
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290239468",
         "live_url": "https://play.sooplive.co.kr/doki0818/290239468"
     },
@@ -36,7 +36,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] 롤레기통 컴백홈ㅣ크리스마스 룰렛 33/330",
-        "viewers": 33,
+        "viewers": 32,
         "thumbnail": "https://liveimg.afreecatv.com/m/290236622",
         "live_url": "https://play.sooplive.co.kr/khj011219/290236622"
     },
@@ -45,7 +45,7 @@
         "name": "아눙",
         "is_live": true,
         "title": "[홍신소] LAC 크리스마스 아직 안 끝났다 / 확정 방셀 1225개",
-        "viewers": 24,
+        "viewers": 18,
         "thumbnail": "https://liveimg.afreecatv.com/m/290242948",
         "live_url": "https://play.sooplive.co.kr/015234/290242948"
     },
@@ -63,25 +63,21 @@
         "name": "우미",
         "is_live": true,
         "title": "[LAC/롤동] 크리스마스엔 분내 쪼꼼만 💖 크리스마스 한정 방셀 33/330/1225",
-        "viewers": 10,
+        "viewers": 8,
         "thumbnail": "https://liveimg.afreecatv.com/m/290241710",
         "live_url": "https://play.sooplive.co.kr/eun0333/290241710"
     },
     {
         "id": "jjoasseo13",
         "name": "죠아써",
-        "is_live": true,
-        "title": "[홍신소] 크리스마스 기념 주루마블 끝내고 후열로 술마시기/ 산타 방셀 확정 524 💙시그풍",
-        "viewers": 13,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290230598",
-        "live_url": "https://play.sooplive.co.kr/jjoasseo13/290230598"
+        "is_live": false
     },
     {
         "id": "kayooo",
         "name": "용아리",
         "is_live": true,
         "title": "크리스마스 기념 박물관 꾸미기🎄방셀 룰렛 33/330 🦖[사자회]",
-        "viewers": 13,
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290234566",
         "live_url": "https://play.sooplive.co.kr/kayooo/290234566"
     }
