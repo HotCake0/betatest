@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 7시 오산타를 잡아라!",
-        "viewers": 23,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290234448",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290234448"
     },
@@ -18,7 +18,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🎄8시 증강칼바람 시참 !",
-        "viewers": 11,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290237682",
         "live_url": "https://play.sooplive.co.kr/star124/290237682"
     },
@@ -27,7 +27,7 @@
         "name": "왜냐니",
         "is_live": true,
         "title": "🎄도깨비 8화부터 안본 눈🎄 /  룰렛 33(방셀), 82(굿즈)",
-        "viewers": 21,
+        "viewers": 26,
         "thumbnail": "https://liveimg.afreecatv.com/m/290234582",
         "live_url": "https://play.sooplive.co.kr/villlo/290234582"
     },
@@ -49,8 +49,8 @@
         "id": "rjsdnr115",
         "name": "고채린",
         "is_live": true,
-        "title": "[홍신소] 메리크리스마스 1225 한정방셀",
-        "viewers": 17,
+        "title": "[홍신소] 메리크리스마스 1225/2872 한정방셀",
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290233686",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290233686"
     },
@@ -59,21 +59,25 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀신과함께 오픈런!!!! (w.베지/한비) / 메리 꾸리스마스🎄 / 그캠단체방셀 3천개🎤",
-        "viewers": 32,
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290238042",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290238042"
     },
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": false
+        "is_live": true,
+        "title": "👻멜크~",
+        "viewers": 17,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290241742",
+        "live_url": "https://play.sooplive.co.kr/etwo22/290241742"
     },
     {
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 메리 크리스마스 방셀 823개",
-        "viewers": 33,
+        "viewers": 30,
         "thumbnail": "https://liveimg.afreecatv.com/m/290236220",
         "live_url": "https://play.sooplive.co.kr/o0opha/290236220"
     }
