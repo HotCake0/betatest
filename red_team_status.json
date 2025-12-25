@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "크리스마스 음주벽킬내기 쪼이",
-        "viewers": 79,
+        "viewers": 70,
         "thumbnail": "https://liveimg.afreecatv.com/m/290233678",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290233678"
     },
@@ -23,7 +23,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]메리크리스마스!방셀 1225개ㅜ.ㅜ w.쏭이,김마렌,조아라",
-        "viewers": 33,
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290239468",
         "live_url": "https://play.sooplive.co.kr/doki0818/290239468"
     },
@@ -46,7 +46,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 바다 표류기 w. 비샤 하링",
-        "viewers": 15,
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290238698",
         "live_url": "https://play.sooplive.co.kr/isq1158/290238698"
     },
@@ -55,7 +55,7 @@
         "name": "우미",
         "is_live": true,
         "title": "[LAC/롤동] 크리스마스엔 분내 쪼꼼만 💖 크리스마스 한정 방셀 33/330/1225",
-        "viewers": 16,
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290241710",
         "live_url": "https://play.sooplive.co.kr/eun0333/290241710"
     },
@@ -67,10 +67,6 @@
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": true,
-        "title": "후열사우루스🎄방셀 룰렛 33/330 🦖[사자회]",
-        "viewers": 7,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290234566",
-        "live_url": "https://play.sooplive.co.kr/kayooo/290234566"
+        "is_live": false
     }
 ]
