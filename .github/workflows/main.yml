@@ -1,16 +1,19 @@
 name: Update Live Status
 
-on:
+on: 
   schedule:
     - cron: '*/5 * * * *' # 10분마다 실행 (깃허브 무료 정책상 5~10분 딜레이가 있을 수 있음)
   workflow_dispatch: # 수동으로 버튼 눌러서 실행 가능하게 함
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 저장소 체크아웃
+      - name:  저장소 체크아웃
         uses: actions/checkout@v3
 
       - name: 파이썬 설정
