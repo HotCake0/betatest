@@ -24,7 +24,7 @@ jobs:
 
       - name: 파이썬 스크립트 실행 (데이터 갱신)
         run: |
-          python update_status.py
+          python 12341234.py
 
       - name: 변경사항 저장 및 커밋 (봇이 수행)
         run: |
