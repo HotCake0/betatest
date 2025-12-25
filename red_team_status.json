@@ -32,11 +32,7 @@
     {
         "id": "isq1158",
         "name": "구월이",
-        "is_live": true,
-        "title": "[사자회] 소똥",
-        "viewers": 18,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290238698",
-        "live_url": "https://play.sooplive.co.kr/isq1158/290238698"
+        "is_live": false
     },
     {
         "id": "eun0333",
