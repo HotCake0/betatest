@@ -17,11 +17,7 @@
     {
         "id": "doki0818",
         "name": "감자가비",
-        "is_live": true,
-        "title": "[고래상사]메리크리스마스!방셀 1225개ㅜ.ㅜ w.쏭이,김마렌,조아라",
-        "viewers": 45,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290239468",
-        "live_url": "https://play.sooplive.co.kr/doki0818/290239468"
+        "is_live": false
     },
     {
         "id": "khj011219",
@@ -37,8 +33,8 @@
         "id": "isq1158",
         "name": "구월이",
         "is_live": true,
-        "title": "[사자회] 바다 표류기 w. 비샤 하링",
-        "viewers": 15,
+        "title": "[사자회] 소똥",
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290238698",
         "live_url": "https://play.sooplive.co.kr/isq1158/290238698"
     },
@@ -46,8 +42,8 @@
         "id": "eun0333",
         "name": "우미",
         "is_live": true,
-        "title": "[LAC/롤동] 아이언1 승급전 💖 크리스마스 한정 방셀 33/330/1225",
-        "viewers": 11,
+        "title": "[LAC/롤동] 후열 노래뱅 💖 크리스마스 한정 방셀 33/330/1225",
+        "viewers": 12,
         "thumbnail": "https://liveimg.afreecatv.com/m/290241710",
         "live_url": "https://play.sooplive.co.kr/eun0333/290241710"
     },
