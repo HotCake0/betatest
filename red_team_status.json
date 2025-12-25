@@ -19,18 +19,14 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]메리크리스마스!방셀 1225개ㅜ.ㅜ w.쏭이,김마렌,조아라",
-        "viewers": 30,
+        "viewers": 41,
         "thumbnail": "https://liveimg.afreecatv.com/m/290239468",
         "live_url": "https://play.sooplive.co.kr/doki0818/290239468"
     },
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": true,
-        "title": "[습레기통] 후열로 육수우리기ㅣ크리스마스 룰렛 33/330",
-        "viewers": 36,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290236622",
-        "live_url": "https://play.sooplive.co.kr/khj011219/290236622"
+        "is_live": false
     },
     {
         "id": "015234",
@@ -42,7 +38,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 바다 표류기 w. 비샤 하링",
-        "viewers": 16,
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290238698",
         "live_url": "https://play.sooplive.co.kr/isq1158/290238698"
     },

@@ -21,11 +21,7 @@
     {
         "id": "villlo",
         "name": "왜냐니",
-        "is_live": true,
-        "title": "야홍 /  룰렛 33(방셀), 82(굿즈)",
-        "viewers": 20,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290234582",
-        "live_url": "https://play.sooplive.co.kr/villlo/290234582"
+        "is_live": false
     },
     {
         "id": "toocat030",
@@ -55,10 +51,6 @@
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": true,
-        "title": "[습레기통] 방송이 꺼져버려따.. 도라와",
-        "viewers": 25,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290248192",
-        "live_url": "https://play.sooplive.co.kr/o0opha/290248192"
+        "is_live": false
     }
 ]
