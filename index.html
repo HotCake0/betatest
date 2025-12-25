@@ -11,6 +11,7 @@
             --red-accent: #ff4d4d;
             --blue-accent: #4d94ff;
             --text-color: #ffffff;
+            --offline-color: #555555;
         }
 
         body {
@@ -24,7 +25,6 @@
             overflow: hidden;
         }
 
-        /* 팀별 선택 바 */
         #selector-container {
             background-color: var(--card-bg);
             display: flex;
@@ -57,8 +57,10 @@
             display: flex;
             gap: 10px;
             overflow-x: auto;
+            padding-bottom: 5px;
         }
 
+        /* 멤버 카드 기본 스타일 */
         .member-card {
             display: flex;
             align-items: center;
@@ -72,7 +74,14 @@
             white-space: nowrap;
         }
 
-        /* 팀별 활성화 색상 */
+        /* 오프라인 스타일: 회색조 및 클릭 방지 */
+        .member-card.offline {
+            filter: grayscale(100%);
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: none; /* 클릭 이벤트 차단 */
+        }
+
         .red-team .member-card.active { border-color: var(--red-accent); background: #3a1a1a; }
         .blue-team .member-card.active { border-color: var(--blue-accent); background: #1a2a3a; }
 
@@ -87,7 +96,7 @@
         .name { font-size: 0.85rem; font-weight: bold; }
         .viewers { font-size: 0.7rem; color: #aaa; }
 
-        /* 멀티뷰 영역 */
+        /* 멀티뷰 그리드 */
         #view-grid {
             flex-grow: 1;
             display: grid;
@@ -98,9 +107,9 @@
 
         .grid-1 { grid-template-columns: 1fr; }
         .grid-2 { grid-template-columns: 1fr 1fr; }
-        .grid-3, .grid-4 { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; }
-        .grid-5, .grid-6 { grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; }
-        .grid-7, .grid-8, .grid-9 { grid-template-columns: 1fr 1fr 1fr; grid-template-rows: repeat(3, 1fr); }
+        .grid-4 { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; }
+        .grid-6 { grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; }
+        .grid-9 { grid-template-columns: 1fr 1fr 1fr; grid-template-rows: repeat(3, 1fr); }
 
         .video-container {
             position: relative;
@@ -137,16 +146,18 @@
     </div>
 
     <script>
-        let selectedIds = new Set();
+        // 선택된 멤버의 {id: url}을 저장할 Map
+        let selectedStreams = new Map();
         let redTeamData = [];
         let blueTeamData = [];
 
-        // 1. 두 개의 JSON 데이터를 동시에 불러오기
         async function loadStatus() {
             try {
+                // 캐시 방지를 위해 타임스탬프 추가
+                const ts = new Date().getTime();
                 const [redRes, blueRes] = await Promise.all([
-                    fetch('red_team_status.json'),
-                    fetch('blue_team_status.json')
+                    fetch(`red_team_status.json?t=${ts}`),
+                    fetch(`blue_team_status.json?t=${ts}`)
                 ]);
                 
                 redTeamData = await redRes.json();
@@ -159,81 +170,79 @@
             }
         }
 
-        // 2. 팀별 리스트 렌더링
         function renderTeamSelector(elementId, data) {
             const listEl = document.getElementById(elementId);
             listEl.innerHTML = '';
 
-            const liveMembers = data.filter(m => m.is_live);
-
-            if (liveMembers.length === 0) {
-                listEl.innerHTML = "<span style='font-size: 0.8rem; color: #555;'>LIVE 없음</span>";
-                return;
-            }
-
-            liveMembers.forEach(member => {
+            data.forEach(member => {
                 const card = document.createElement('div');
-                card.className = `member-card ${selectedIds.has(member.id) ? 'active' : ''}`;
-                card.onclick = () => toggleStream(member.id);
+                // 방송 상태에 따른 클래스 부여
+                const isLive = member.is_live;
+                const isActive = selectedStreams.has(member.id);
                 
+                card.className = `member-card ${isLive ? '' : 'offline'} ${isActive ? 'active' : ''}`;
+                
+                // 방송 중일 때만 클릭 이벤트 연결
+                if (isLive) {
+                    card.onclick = () => toggleStream(member.id, member.live_url);
+                }
+                
+                // 썸네일과 뷰어 수 처리
+                const thumb = isLive ? member.thumbnail : 'https://via.placeholder.com/40x25?text=OFF';
+                const viewers = isLive ? `👤 ${member.viewers}` : 'OFFLINE';
+
                 card.innerHTML = `
-                    <img class="thumb-mini" src="${member.thumbnail}" onerror="this.src='https://via.placeholder.com/40x25'">
+                    <img class="thumb-mini" src="${thumb}" onerror="this.src='https://via.placeholder.com/40x25'">
                     <div class="info-mini">
                         <span class="name">${member.name}</span>
-                        <span class="viewers">👤 ${member.viewers}</span>
+                        <span class="viewers">${viewers}</span>
                     </div>
                 `;
                 listEl.appendChild(card);
             });
         }
 
-        // 3. 클릭 시 토글
-        function toggleStream(id) {
-            if (selectedIds.has(id)) {
-                selectedIds.delete(id);
+        function toggleStream(id, liveUrl) {
+            if (selectedStreams.has(id)) {
+                selectedStreams.delete(id);
             } else {
-                selectedIds.add(id);
+                // live_url 주소를 embed용으로 변환하여 저장
+                const embedUrl = liveUrl.replace('play.sooplive.co.kr/', 'play.sooplive.co.kr/embed/');
+                selectedStreams.set(id, embedUrl);
             }
-            // 전체 다시 그리기
             renderTeamSelector('red-member-list', redTeamData);
             renderTeamSelector('blue-member-list', blueTeamData);
             updateGrid();
         }
 
-        // 4. 그리드 업데이트
         function updateGrid() {
             const gridEl = document.getElementById('view-grid');
             gridEl.innerHTML = '';
 
-            if (selectedIds.size === 0) {
+            if (selectedStreams.size === 0) {
                 gridEl.innerHTML = '<div class="no-data">방송 중인 멤버를 선택해 주세요.</div>';
                 return;
             }
 
-            const count = selectedIds.size;
+            const count = selectedStreams.size;
             if (count === 1) gridEl.className = 'grid-1';
             else if (count === 2) gridEl.className = 'grid-2';
             else if (count <= 4) gridEl.className = 'grid-4';
             else if (count <= 6) gridEl.className = 'grid-6';
             else gridEl.className = 'grid-9';
 
-            selectedIds.forEach(id => {
+            selectedStreams.forEach((url, id) => {
                 const container = document.createElement('div');
                 container.className = 'video-container';
-                // SOOP 임베드 주소
                 container.innerHTML = `
-                    <iframe 
-                        src="https://play.sooplive.co.kr/embed/${id}" 
-                        allowfullscreen>
-                    </iframe>
+                    <iframe src="${url}" allowfullscreen></iframe>
                 `;
                 gridEl.appendChild(container);
             });
         }
 
-        // 초기 실행 및 30초 주기 갱신
         loadStatus();
-        setInterval(loadStatus, 30000);
+        setInterval(loadStatus, 30000); // 30초마다 상태 업데이트
     </script>
 </body>
 </html>
