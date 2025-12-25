@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>고래상사 LIVE 멀티뷰 (최종본)</title>
+    <title>고래상사 LIVE 멀티뷰 (팀 선택 기능 추가)</title>
     <style>
         :root {
             --bg-dark: #0f0f0f;
             --card-bg: #1e1e1e;
             --accent-green: #00ffa3;
+            --accent-red: #ff4d4d;
+            --accent-blue: #4d94ff;
             --text-white: #ffffff;
             --text-gray: #aaaaaa;
         }
@@ -28,11 +30,39 @@
             background-color: var(--card-bg);
             padding: 12px 20px;
             display: flex;
-            align-items: center;
-            gap: 15px;
+            flex-direction: column; /* 세로 배치로 변경하여 필터 공간 확보 */
+            gap: 10px;
             border-bottom: 2px solid #333;
             z-index: 10;
         }
+
+        .header-top {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        /* [추가] 팀 필터 스타일 */
+        .team-filter {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 5px;
+        }
+
+        .filter-btn {
+            background: #2a2a2a;
+            border: 1px solid #444;
+            color: var(--text-gray);
+            padding: 5px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            transition: 0.2s;
+        }
+
+        .filter-btn.active[data-team="all"] { background: #444; color: white; border-color: #666; }
+        .filter-btn.active[data-team="red"] { background: #4d1a1a; color: #ff9999; border-color: var(--accent-red); }
+        .filter-btn.active[data-team="blue"] { background: #1a2a4d; color: #99c2ff; border-color: var(--accent-blue); }
 
         .live-dot {
             width: 10px; height: 10px;
@@ -50,6 +80,10 @@
             padding-bottom: 5px;
         }
 
+        /* 스크롤바 디자인 */
+        #member-list::-webkit-scrollbar { height: 4px; }
+        #member-list::-webkit-scrollbar-thumb { background: #444; border-radius: 10px; }
+
         .member-btn {
             display: flex;
             align-items: center;
@@ -63,7 +97,6 @@
             white-space: nowrap;
         }
 
-        /* [추가] 오프라인 스타일 */
         .member-btn.offline {
             filter: grayscale(100%);
             opacity: 0.4;
@@ -112,9 +145,16 @@
 <body>
 
     <header>
-        <div style="min-width: 110px;">
-            <span class="live-dot"></span>
-            <strong style="font-size: 0.9rem; margin-left: 5px;">LIVE (<span id="count">0</span>/4)</strong>
+        <div class="header-top">
+            <div style="min-width: 110px;">
+                <span class="live-dot"></span>
+                <strong style="font-size: 0.9rem; margin-left: 5px;">LIVE (<span id="count">0</span>/4)</strong>
+            </div>
+            <div class="team-filter">
+                <button class="filter-btn active" data-team="all" onclick="setFilter('all')">전체</button>
+                <button class="filter-btn" data-team="red" onclick="setFilter('red')">레드팀</button>
+                <button class="filter-btn" data-team="blue" onclick="setFilter('blue')">블루팀</button>
+            </div>
         </div>
         <div id="member-list"></div>
     </header>
@@ -139,10 +179,10 @@
 
         let selectedMembers = new Set();
         let statusData = [];
+        let currentFilter = 'all'; // [추가] 현재 선택된 팀 필터 상태
 
         async function fetchStatus() {
             try {
-                // 캐시 방지를 위해 쿼리 스트링 추가
                 const ts = new Date().getTime();
                 const [redRes, blueRes] = await Promise.all([
                     fetch(`red_team_status.json?t=${ts}`),
@@ -151,7 +191,12 @@
                 
                 const redData = await redRes.json();
                 const blueData = await blueRes.json();
-                statusData = [...redData, ...blueData];
+
+                // [중요] 각 멤버 데이터에 팀 정보 추가
+                const taggedRed = redData.map(m => ({...m, team: 'red'}));
+                const taggedBlue = blueData.map(m => ({...m, team: 'blue'}));
+
+                statusData = [...taggedRed, ...taggedBlue];
                 
                 renderSelector();
             } catch (err) {
@@ -159,12 +204,29 @@
             }
         }
 
+        // [추가] 필터 변경 함수
+        function setFilter(team) {
+            currentFilter = team;
+            
+            // 버튼 활성화 스타일 변경
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.team === team);
+            });
+
+            renderSelector();
+        }
+
         function renderSelector() {
             const listContainer = document.getElementById('member-list');
             listContainer.innerHTML = '';
 
-            // 모든 멤버를 보여주되 오프라인은 grayscale 처리
-            statusData.forEach(member => {
+            // [수정] 필터링 로직 적용
+            const filteredData = statusData.filter(member => {
+                if (currentFilter === 'all') return true;
+                return member.team === currentFilter;
+            });
+
+            filteredData.forEach(member => {
                 const btn = document.createElement('div');
                 const isLive = member.is_live;
                 const isActive = selectedMembers.has(member.id);
@@ -215,13 +277,11 @@
                 return;
             }
 
-            // 원본에서 검증된 레이아웃 로직
             gridContainer.className = count >= 3 ? 'grid-3' : count === 2 ? 'grid-2' : 'grid-1';
 
             selectedMembers.forEach(id => {
                 const wrapper = document.createElement('div');
                 wrapper.className = 'video-wrapper';
-                // [핵심] 원본의 안정적인 URL 구조 사용
                 wrapper.innerHTML = `
                     <iframe src="https://play.sooplive.co.kr/${id}/embed" allowfullscreen scrolling="no"></iframe>
                 `;
