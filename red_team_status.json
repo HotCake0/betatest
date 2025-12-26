@@ -1,10 +1,19 @@
 [
     {
+        "id": "melodingding",
+        "name": "멜로딩딩",
+        "is_live": true,
+        "title": "[고래상사] GTA 깃발전쟁 ! 중계방 / 울산큰고래",
+        "viewers": 38,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290261690",
+        "live_url": "https://play.sooplive.co.kr/melodingding/290261690"
+    },
+    {
         "id": "joyjo2",
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 GTA 고래전쟁 깃발전쟁 컨텐츠 대결이 받습니다",
-        "viewers": 89,
+        "viewers": 85,
         "thumbnail": "https://liveimg.afreecatv.com/m/290257162",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290257162"
     },
@@ -22,7 +31,7 @@
         "name": "니니밍",
         "is_live": true,
         "title": "[지력] GTA깃발전쟁 이기쟈!!🔴레드팀!멤버⭐방셀33/330",
-        "viewers": 60,
+        "viewers": 59,
         "thumbnail": "https://liveimg.afreecatv.com/m/290261430",
         "live_url": "https://play.sooplive.co.kr/niniming/290261430"
     },
@@ -40,7 +49,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] GTA 깃발전쟁 쪼이팀 에이스 ㄷㄱㅈㅣ크리스마스 룰렛 33/330",
-        "viewers": 45,
+        "viewers": 44,
         "thumbnail": "https://liveimg.afreecatv.com/m/290257176",
         "live_url": "https://play.sooplive.co.kr/khj011219/290257176"
     },
@@ -49,7 +58,7 @@
         "name": "아눙",
         "is_live": true,
         "title": "[홍신소] 8시 울큰고님 GTA 고래전쟁:깃발 레드팀 / 확정 방셀 1225개",
-        "viewers": 15,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290261098",
         "live_url": "https://play.sooplive.co.kr/015234/290261098"
     },
@@ -58,7 +67,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 고래전쟁 레드팀입니다!",
-        "viewers": 18,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290261340",
         "live_url": "https://play.sooplive.co.kr/isq1158/290261340"
     },
@@ -85,7 +94,7 @@
         "name": "용아리",
         "is_live": true,
         "title": "울큰고님 깃발 전쟁출전!❤️레드팀🎄방셀 룰렛 33/330 🦖[사자회]",
-        "viewers": 10,
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290260636",
         "live_url": "https://play.sooplive.co.kr/kayooo/290260636"
     }
