@@ -2,7 +2,11 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": false
+        "is_live": true,
+        "title": "쪼이 컨디션이 와일누",
+        "viewers": 68,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290257162",
+        "live_url": "https://play.sooplive.co.kr/joyjo2/290257162"
     },
     {
         "id": "wkdghdtjr99",
@@ -22,7 +26,11 @@
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": false
+        "is_live": true,
+        "title": "[습레기통] 풀트 시그댄스 룰렛 OPEN",
+        "viewers": 45,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290257176",
+        "live_url": "https://play.sooplive.co.kr/khj011219/290257176"
     },
     {
         "id": "015234",
@@ -43,8 +51,8 @@
         "id": "jjoasseo13",
         "name": "죠아써",
         "is_live": true,
-        "title": "[홍신소] 유키랑 같이 시네티 신과함께 보기 (안 본척 하는 눈)/ 산타 방셀 확정 524 💙시그풍",
-        "viewers": 13,
+        "title": "[홍신소] 유키,잠결언니랑 같이 시네티 신과함께 보기 (안 본척 하는 눈)/ 산타 방셀 확정 524 💙시그풍",
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256554",
         "live_url": "https://play.sooplive.co.kr/jjoasseo13/290256554"
     },
