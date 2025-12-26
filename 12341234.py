@@ -4,6 +4,7 @@ import os
 
 # 1. 팀 리스트 정의 (문법 오류 수정 완료)
 red_team = {
+    "melodingding" : "멜로딩딩",
     "joyjo2": "쪼이",
     "wkdghdtjr99": "여백이다",
     "niniming": "니니밍",
