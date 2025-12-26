@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 8시 GTA5 깃발점령전 컨텐츠",
-        "viewers": 3,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290260148",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290260148"
     },
@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "어 왔니 ?",
-        "viewers": 20,
+        "viewers": 49,
         "thumbnail": "https://liveimg.afreecatv.com/m/290260050",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290260050"
     },
@@ -22,7 +22,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊8시 울큰고님 깃발전쟁 전에 LAC 보스잡으러 !",
-        "viewers": 29,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256046",
         "live_url": "https://play.sooplive.co.kr/star124/290256046"
     },
@@ -31,7 +31,7 @@
         "name": "왜냐니",
         "is_live": true,
         "title": "폐급 아니다 (룰렛 33,82)",
-        "viewers": 23,
+        "viewers": 20,
         "thumbnail": "https://liveimg.afreecatv.com/m/290258482",
         "live_url": "https://play.sooplive.co.kr/villlo/290258482"
     },
@@ -40,26 +40,34 @@
         "name": "또오냥",
         "is_live": true,
         "title": "8시 울큰고님 컨텐츠 대기",
-        "viewers": 101,
+        "viewers": 88,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256342",
         "live_url": "https://play.sooplive.co.kr/toocat030/290256342"
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 좋은 저녁이에요:0",
+        "viewers": 17,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290260584",
+        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290260584"
     },
     {
         "id": "rjsdnr115",
         "name": "고채린",
-        "is_live": false
+        "is_live": true,
+        "title": "[홍신소] 메리크리스마스 1225/2872 한정방셀",
+        "viewers": 12,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290260748",
+        "live_url": "https://play.sooplive.co.kr/rjsdnr115/290260748"
     },
     {
         "id": "yotsubakoe",
         "name": "코에",
         "is_live": true,
         "title": "🍀너 없으니까 너무 추워🎄 / 그캠단체방셀 3천개🎤",
-        "viewers": 10,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290259292",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290259292"
     },
@@ -68,7 +76,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻풀잠때린 이투 / 루돌프 단컷 300개",
-        "viewers": 33,
+        "viewers": 32,
         "thumbnail": "https://liveimg.afreecatv.com/m/290257178",
         "live_url": "https://play.sooplive.co.kr/etwo22/290257178"
     },
@@ -77,7 +85,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 오늘 내가 무슨 일이 있었냐면",
-        "viewers": 39,
+        "viewers": 31,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256926",
         "live_url": "https://play.sooplive.co.kr/o0opha/290256926"
     }
