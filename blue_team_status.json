@@ -4,25 +4,21 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 새벽롤",
-        "viewers": 14,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290260148",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290260148"
     },
     {
         "id": "gtw0308",
         "name": "황정민",
-        "is_live": true,
-        "title": "ㅎㅎㅎ",
-        "viewers": 60,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290260050",
-        "live_url": "https://play.sooplive.co.kr/gtw0308/290260050"
+        "is_live": false
     },
     {
         "id": "star124",
         "name": "하밍",
         "is_live": true,
         "title": "🍊뮤비 명작 찾기 !",
-        "viewers": 17,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256046",
         "live_url": "https://play.sooplive.co.kr/star124/290256046"
     },
@@ -30,8 +26,8 @@
         "id": "villlo",
         "name": "왜냐니",
         "is_live": true,
-        "title": "도깨비 안본눈 마지막까지 달립니다 (13화 부터)",
-        "viewers": 39,
+        "title": "도깨비 안본눈 마지막화 봅니다",
+        "viewers": 45,
         "thumbnail": "https://liveimg.afreecatv.com/m/290258482",
         "live_url": "https://play.sooplive.co.kr/villlo/290258482"
     },
