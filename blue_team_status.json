@@ -14,7 +14,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언3 2연승미션..",
-        "viewers": 20,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256046",
         "live_url": "https://play.sooplive.co.kr/star124/290256046"
     },
@@ -28,7 +28,7 @@
         "name": "또오냥",
         "is_live": true,
         "title": "[공겜핀볼 진짜함]나 진짜 억울해",
-        "viewers": 72,
+        "viewers": 90,
         "thumbnail": "https://liveimg.afreecatv.com/m/290256342",
         "live_url": "https://play.sooplive.co.kr/toocat030/290256342"
     },
@@ -55,6 +55,10 @@
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": false
+        "is_live": true,
+        "title": "[습레기통] 오늘 내가 무슨 일이 있었냐면",
+        "viewers": 25,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290256926",
+        "live_url": "https://play.sooplive.co.kr/o0opha/290256926"
     }
 ]
