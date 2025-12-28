@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 쪼등학교 수능 마지막날",
-        "viewers": 138,
+        "viewers": 108,
         "thumbnail": "https://liveimg.afreecatv.com/m/290308580",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290308580"
     },
@@ -51,6 +51,10 @@
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": false
+        "is_live": true,
+        "title": "공룡 등장이야~ / 7시) 사자회 점호🦕 방셀 룰렛 33/330 🦖[사자회]",
+        "viewers": 2,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290309758",
+        "live_url": "https://play.sooplive.co.kr/kayooo/290309758"
     }
 ]
