@@ -42,11 +42,7 @@
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": true,
-        "title": "👻그린캠프 망년회",
-        "viewers": 22,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290357282",
-        "live_url": "https://play.sooplive.co.kr/etwo22/290357282"
+        "is_live": false
     },
     {
         "id": "o0opha",
