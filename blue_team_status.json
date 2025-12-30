@@ -37,19 +37,27 @@
     {
         "id": "yotsubakoe",
         "name": "코에",
-        "is_live": false
+        "is_live": true,
+        "title": "🍀머리가 띵 아픈데..큰일이다🎤",
+        "viewers": 5,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290357378",
+        "live_url": "https://play.sooplive.co.kr/yotsubakoe/290357378"
     },
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": false
+        "is_live": true,
+        "title": "👻이투, 이대로 괜찮은가?(집 비번 까먹음)",
+        "viewers": 20,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290357282",
+        "live_url": "https://play.sooplive.co.kr/etwo22/290357282"
     },
     {
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 나왔다!!!!",
-        "viewers": 30,
+        "viewers": 41,
         "thumbnail": "https://liveimg.afreecatv.com/m/290355966",
         "live_url": "https://play.sooplive.co.kr/o0opha/290355966"
     }
