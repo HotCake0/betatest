@@ -3,8 +3,8 @@
         "id": "rkdalstnld",
         "name": "주드",
         "is_live": true,
-        "title": "주드 2025 마지막 방송",
-        "viewers": 8,
+        "title": "주드 2025 마지막 방송 소통합니다",
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290389060",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290389060"
     },
@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "어 왔니 ?",
-        "viewers": 46,
+        "viewers": 45,
         "thumbnail": "https://liveimg.afreecatv.com/m/290386464",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290386464"
     },
@@ -22,7 +22,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊8시 야매타로상담소 오픈 !",
-        "viewers": 19,
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385712",
         "live_url": "https://play.sooplive.co.kr/star124/290385712"
     },
@@ -30,7 +30,7 @@
         "id": "villlo",
         "name": "왜냐니",
         "is_live": true,
-        "title": "🏆 2025 띠용이어워드 🏆",
+        "title": "얘드라 즐거웠어",
         "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290387206",
         "live_url": "https://play.sooplive.co.kr/villlo/290387206"
@@ -38,7 +38,11 @@
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": false
+        "is_live": true,
+        "title": "일출서버 정동진 첫차 예약 때문에 잠 설치고 옴",
+        "viewers": 23,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290391722",
+        "live_url": "https://play.sooplive.co.kr/toocat030/290391722"
     },
     {
         "id": "xpdpfv2",
@@ -50,7 +54,7 @@
         "name": "고채린",
         "is_live": true,
         "title": "[홍신소] 코찔찔이 고채린",
-        "viewers": 19,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385244",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290385244"
     },
@@ -59,7 +63,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀마지막 방송..🎤",
-        "viewers": 37,
+        "viewers": 35,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383440",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290383440"
     },
@@ -68,7 +72,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻2025년 다 끝났다!",
-        "viewers": 35,
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383674",
         "live_url": "https://play.sooplive.co.kr/etwo22/290383674"
     },
@@ -76,8 +80,8 @@
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
-        "title": "[습레기통] 습레기통 시상식 나는 최고의 습레기 일까?",
-        "viewers": 40,
+        "title": "[습레기통] 팬들의 진심",
+        "viewers": 42,
         "thumbnail": "https://liveimg.afreecatv.com/m/290380616",
         "live_url": "https://play.sooplive.co.kr/o0opha/290380616"
     }
