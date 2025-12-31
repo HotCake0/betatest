@@ -18,7 +18,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊인사쇼 !",
-        "viewers": 18,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385712",
         "live_url": "https://play.sooplive.co.kr/star124/290385712"
     },
@@ -44,11 +44,7 @@
     {
         "id": "rjsdnr115",
         "name": "고채린",
-        "is_live": true,
-        "title": "[홍신소] 일출서버 코찔찔이와 2025년 마지막날을 함께해",
-        "viewers": 17,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290385244",
-        "live_url": "https://play.sooplive.co.kr/rjsdnr115/290385244"
+        "is_live": false
     },
     {
         "id": "yotsubakoe",
@@ -65,7 +61,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 일출서버 나랑 한해 마무리 하자",
-        "viewers": 30,
+        "viewers": 28,
         "thumbnail": "https://liveimg.afreecatv.com/m/290380616",
         "live_url": "https://play.sooplive.co.kr/o0opha/290380616"
     }
