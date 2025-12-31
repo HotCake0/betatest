@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 2026 새해 복 많이 받으세요~",
-        "viewers": 16,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290389060",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290389060"
     },
@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "로이세끼 술 때리기",
-        "viewers": 56,
+        "viewers": 46,
         "thumbnail": "https://liveimg.afreecatv.com/m/290386464",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290386464"
     },
@@ -22,25 +22,21 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊대방어에 술 한잔하는 알쓰 !",
-        "viewers": 27,
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385712",
         "live_url": "https://play.sooplive.co.kr/star124/290385712"
     },
     {
         "id": "villlo",
         "name": "왜냐니",
-        "is_live": true,
-        "title": "띠용이 롤링페이퍼 읽기",
-        "viewers": 31,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290387206",
-        "live_url": "https://play.sooplive.co.kr/villlo/290387206"
+        "is_live": false
     },
     {
         "id": "toocat030",
         "name": "또오냥",
         "is_live": true,
         "title": "일출서버 정동진 첫차 예약 때문에 잠 설치고 옴",
-        "viewers": 69,
+        "viewers": 57,
         "thumbnail": "https://liveimg.afreecatv.com/m/290391722",
         "live_url": "https://play.sooplive.co.kr/toocat030/290391722"
     },
@@ -54,25 +50,21 @@
         "name": "고채린",
         "is_live": true,
         "title": "[홍신소] 코찔찔이 2025 마지막날을 함꼐해",
-        "viewers": 17,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385244",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290385244"
     },
     {
         "id": "yotsubakoe",
         "name": "코에",
-        "is_live": true,
-        "title": "🍀2026년 그캠친구들과 귀귀살전!🎤",
-        "viewers": 37,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290383440",
-        "live_url": "https://play.sooplive.co.kr/yotsubakoe/290383440"
+        "is_live": false
     },
     {
         "id": "etwo22",
         "name": "이투",
         "is_live": true,
-        "title": "👻2026년 귀귀살전 w.그린캠프",
-        "viewers": 33,
+        "title": "👻2026년 새복많! 귀귀살전 w.그린캠프",
+        "viewers": 28,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383674",
         "live_url": "https://play.sooplive.co.kr/etwo22/290383674"
     },
@@ -81,7 +73,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 일출서버 나랑 한해 마무리 하자",
-        "viewers": 27,
+        "viewers": 25,
         "thumbnail": "https://liveimg.afreecatv.com/m/290380616",
         "live_url": "https://play.sooplive.co.kr/o0opha/290380616"
     }
