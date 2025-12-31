@@ -9,7 +9,7 @@
         "name": "여백이다",
         "is_live": true,
         "title": "바카르마) 검성 1.4뉴비 오픈런 등장",
-        "viewers": 14,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290374336",
         "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290374336"
     },
@@ -26,7 +26,11 @@
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": false
+        "is_live": true,
+        "title": "[습레기통] 3시에 노래교실 커버곡 공개 ㅣ 크리스마스 룰렛 33/330",
+        "viewers": 18,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290378396",
+        "live_url": "https://play.sooplive.co.kr/khj011219/290378396"
     },
     {
         "id": "015234",
