@@ -2,7 +2,11 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": false
+        "is_live": true,
+        "title": "쪼이 정말 억울합니다 텅장되었습니다",
+        "viewers": 145,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290383042",
+        "live_url": "https://play.sooplive.co.kr/joyjo2/290383042"
     },
     {
         "id": "wkdghdtjr99",
@@ -24,7 +28,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] 2025 습레기통 연말정산&시상식 진행자 기찬하",
-        "viewers": 46,
+        "viewers": 45,
         "thumbnail": "https://liveimg.afreecatv.com/m/290378396",
         "live_url": "https://play.sooplive.co.kr/khj011219/290378396"
     },
