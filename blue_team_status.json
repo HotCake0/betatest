@@ -12,7 +12,11 @@
     {
         "id": "star124",
         "name": "하밍",
-        "is_live": false
+        "is_live": true,
+        "title": "🍊8시 야매타로상담소 오픈 !",
+        "viewers": 7,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290385712",
+        "live_url": "https://play.sooplive.co.kr/star124/290385712"
     },
     {
         "id": "villlo",
@@ -24,7 +28,7 @@
         "name": "또오냥",
         "is_live": true,
         "title": "이번년도 건강검진 턱걸이로 세이프 후 버인협회 시상식에 달려온 나.",
-        "viewers": 83,
+        "viewers": 81,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383234",
         "live_url": "https://play.sooplive.co.kr/toocat030/290383234"
     },
@@ -37,8 +41,8 @@
         "id": "rjsdnr115",
         "name": "고채린",
         "is_live": true,
-        "title": "[홍신소] 안녕안녕 나는 고째니",
-        "viewers": 7,
+        "title": "[홍신소] 코찔찔이 고채린",
+        "viewers": 18,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385244",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290385244"
     },
@@ -47,7 +51,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀마지막 방송..🎤",
-        "viewers": 25,
+        "viewers": 37,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383440",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290383440"
     },
@@ -56,7 +60,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻2025년 다 끝났다!",
-        "viewers": 31,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383674",
         "live_url": "https://play.sooplive.co.kr/etwo22/290383674"
     },
@@ -65,7 +69,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 습레기통 시상식 나는 최고의 습레기 일까?",
-        "viewers": 37,
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290380616",
         "live_url": "https://play.sooplive.co.kr/o0opha/290380616"
     }

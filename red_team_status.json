@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 정말 억울합니다 텅장되었습니다",
-        "viewers": 164,
+        "viewers": 242,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383042",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290383042"
     },
@@ -28,7 +28,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] 2025 습레기통 연말정산&시상식 진행자 기찬하",
-        "viewers": 52,
+        "viewers": 50,
         "thumbnail": "https://liveimg.afreecatv.com/m/290378396",
         "live_url": "https://play.sooplive.co.kr/khj011219/290378396"
     },
@@ -47,14 +47,18 @@
         "name": "우미",
         "is_live": true,
         "title": "[LAC] 2025년 푸컴퍼니 새친구랑 (w.푸냥이) 💖 한정 방셀 33/330 막날! =''v''=",
-        "viewers": 12,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383726",
         "live_url": "https://play.sooplive.co.kr/eun0333/290383726"
     },
     {
         "id": "jjoasseo13",
         "name": "죠아써",
-        "is_live": false
+        "is_live": true,
+        "title": "[홍신소] 마지막 방송 하는 날...  / 산타 방셀 확정 524 오늘까지! 💙시그풍",
+        "viewers": 11,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290385698",
+        "live_url": "https://play.sooplive.co.kr/jjoasseo13/290385698"
     },
     {
         "id": "kayooo",
