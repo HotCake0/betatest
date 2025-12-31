@@ -12,11 +12,7 @@
     {
         "id": "niniming",
         "name": "니니밍",
-        "is_live": true,
-        "title": "[일출서버/지력]2026년 해가 밝아따🌅⭐ 룰렛33/330",
-        "viewers": 37,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290386990",
-        "live_url": "https://play.sooplive.co.kr/niniming/290386990"
+        "is_live": false
     },
     {
         "id": "doki0818",
@@ -42,7 +38,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회]  일출서버 API 쪼꼼만 도와주세요! 크리스마스 방셀 마지막 날!!! 599/1499/2899",
-        "viewers": 18,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290388236",
         "live_url": "https://play.sooplive.co.kr/isq1158/290388236"
     },
