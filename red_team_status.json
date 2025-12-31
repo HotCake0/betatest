@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 정말 억울합니다 텅장되었습니다",
-        "viewers": 145,
+        "viewers": 131,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383042",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290383042"
     },
@@ -45,7 +45,11 @@
     {
         "id": "eun0333",
         "name": "우미",
-        "is_live": false
+        "is_live": true,
+        "title": "[LAC] 2025년 바이구 💖 한정 방셀 33/330 막날! =''v''=",
+        "viewers": 6,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290383726",
+        "live_url": "https://play.sooplive.co.kr/eun0333/290383726"
     },
     {
         "id": "jjoasseo13",
