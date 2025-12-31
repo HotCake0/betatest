@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 정말 억울합니다 텅장되었습니다",
-        "viewers": 240,
+        "viewers": 233,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383042",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290383042"
     },
@@ -18,7 +18,7 @@
         "name": "니니밍",
         "is_live": true,
         "title": "[지력] 2025년 마지막밤⭐ 룰렛33/330",
-        "viewers": 26,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290386990",
         "live_url": "https://play.sooplive.co.kr/niniming/290386990"
     },
@@ -32,7 +32,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] 2025 습레기통 연말정산&시상식 진행자 기찬하",
-        "viewers": 54,
+        "viewers": 48,
         "thumbnail": "https://liveimg.afreecatv.com/m/290378396",
         "live_url": "https://play.sooplive.co.kr/khj011219/290378396"
     },
@@ -44,7 +44,11 @@
     {
         "id": "isq1158",
         "name": "구월이",
-        "is_live": false
+        "is_live": true,
+        "title": "[사자회]  일출서버 API 쪼꼼만 도와주세요! 크리스마스 방셀 마지막 날!!! 599/1499/2899",
+        "viewers": 14,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290388236",
+        "live_url": "https://play.sooplive.co.kr/isq1158/290388236"
     },
     {
         "id": "eun0333",
