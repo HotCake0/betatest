@@ -13,8 +13,8 @@
         "id": "niniming",
         "name": "니니밍",
         "is_live": true,
-        "title": "[일출서버/지력] 2026년 함께 맞이하장⭐ 룰렛33/330",
-        "viewers": 36,
+        "title": "[일출서버/지력] 해돋이 같이 보장🌅⭐ 룰렛33/330",
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290386990",
         "live_url": "https://play.sooplive.co.kr/niniming/290386990"
     },
@@ -28,7 +28,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[일출서버] 2026 새해 일출보기 ㅣ 한복방셀 확정 2026",
-        "viewers": 30,
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290378396",
         "live_url": "https://play.sooplive.co.kr/khj011219/290378396"
     },
@@ -37,7 +37,7 @@
         "name": "아눙",
         "is_live": true,
         "title": "[홍신소] 일출서버! 2026년도 잘 부탁드립니다 ♡",
-        "viewers": 15,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290390382",
         "live_url": "https://play.sooplive.co.kr/015234/290390382"
     },
@@ -46,18 +46,14 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회]  일출서버 API 쪼꼼만 도와주세요! 크리스마스 방셀 마지막 날!!! 599/1499/2899",
-        "viewers": 18,
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290388236",
         "live_url": "https://play.sooplive.co.kr/isq1158/290388236"
     },
     {
         "id": "eun0333",
         "name": "우미",
-        "is_live": true,
-        "title": "[LAC] 2025년 마지막날 같이 한잔해 💖 한정방셀도 막날 33/330 (다시보기x)",
-        "viewers": 19,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290383726",
-        "live_url": "https://play.sooplive.co.kr/eun0333/290383726"
+        "is_live": false
     },
     {
         "id": "jjoasseo13",
