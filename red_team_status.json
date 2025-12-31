@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 정말 억울합니다 텅장되었습니다",
-        "viewers": 317,
+        "viewers": 240,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383042",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290383042"
     },
@@ -16,7 +16,11 @@
     {
         "id": "niniming",
         "name": "니니밍",
-        "is_live": false
+        "is_live": true,
+        "title": "[지력] 2025년 마지막밤⭐ 룰렛33/330",
+        "viewers": 26,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290386990",
+        "live_url": "https://play.sooplive.co.kr/niniming/290386990"
     },
     {
         "id": "doki0818",
@@ -28,7 +32,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] 2025 습레기통 연말정산&시상식 진행자 기찬하",
-        "viewers": 52,
+        "viewers": 54,
         "thumbnail": "https://liveimg.afreecatv.com/m/290378396",
         "live_url": "https://play.sooplive.co.kr/khj011219/290378396"
     },
@@ -46,8 +50,8 @@
         "id": "eun0333",
         "name": "우미",
         "is_live": true,
-        "title": "[LAC] 2025년 푸컴퍼니 새친구랑 (w.푸냥이) 💖 한정 방셀 33/330 막날! =''v''=",
-        "viewers": 11,
+        "title": "[LAC] 2025년 바이구! 푸컴퍼니 새친구랑 듀오미션 💖 한정 방셀 33/330",
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290383726",
         "live_url": "https://play.sooplive.co.kr/eun0333/290383726"
     },
@@ -56,7 +60,7 @@
         "name": "죠아써",
         "is_live": true,
         "title": "[홍신소] 아주 많이 쌓인 죠카페 털어먹기  / 산타 방셀 확정 524 오늘까지! 💙시그풍",
-        "viewers": 12,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290385698",
         "live_url": "https://play.sooplive.co.kr/jjoasseo13/290385698"
     },
