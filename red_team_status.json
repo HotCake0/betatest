@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 증바람 라이트",
-        "viewers": 70,
+        "viewers": 61,
         "thumbnail": "https://liveimg.afreecatv.com/m/290408850",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290408850"
     },
@@ -23,7 +23,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]엑스컴 신입사령관 사철임니다",
-        "viewers": 65,
+        "viewers": 75,
         "thumbnail": "https://liveimg.afreecatv.com/m/290417080",
         "live_url": "https://play.sooplive.co.kr/doki0818/290417080"
     },
@@ -31,7 +31,7 @@
         "id": "khj011219",
         "name": "기찬하",
         "is_live": true,
-        "title": "[습레기통] 여신 두명이서 롤 듀랭ㅣ 한복방셀 확정 2026",
+        "title": "[습레기통] 작업하면서 신과함께보기",
         "viewers": 40,
         "thumbnail": "https://liveimg.afreecatv.com/m/290418154",
         "live_url": "https://play.sooplive.co.kr/khj011219/290418154"
@@ -46,7 +46,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 2025 구월이 추억의 노래방",
-        "viewers": 16,
+        "viewers": 12,
         "thumbnail": "https://liveimg.afreecatv.com/m/290418046",
         "live_url": "https://play.sooplive.co.kr/isq1158/290418046"
     },
@@ -63,10 +63,6 @@
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": true,
-        "title": "🦖고고학 마크  : 쥬라기 공원 건축 시작🦕방셀 룰렛 오늘까지만! 33 330🦖[사자회]",
-        "viewers": 11,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290410514",
-        "live_url": "https://play.sooplive.co.kr/kayooo/290410514"
+        "is_live": false
     }
 ]
