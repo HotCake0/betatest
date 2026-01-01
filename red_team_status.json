@@ -2,16 +2,16 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": false
+        "is_live": true,
+        "title": "쪼이 새해 복 많이 받으십시요!",
+        "viewers": 127,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290408850",
+        "live_url": "https://play.sooplive.co.kr/joyjo2/290408850"
     },
     {
         "id": "wkdghdtjr99",
         "name": "여백이다",
-        "is_live": true,
-        "title": "바카르마) 검성 1.8뉴비 / 새해 복 많이 받으세요",
-        "viewers": 9,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290403890",
-        "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290403890"
+        "is_live": false
     },
     {
         "id": "niniming",
@@ -47,8 +47,8 @@
         "id": "jjoasseo13",
         "name": "죠아써",
         "is_live": true,
-        "title": "[홍신소] 26년에도 죠아써 새해 복 많이 받아용 ( *ฅ́˘ฅ̀*)",
-        "viewers": 12,
+        "title": "[홍신소] 6시) 롤링페이퍼 읽기 쓰기만 해도 퀵플 :: 26년에도 죠아써 새해 복 많이 받아용 ( *ฅ́˘ฅ̀*)",
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290408708",
         "live_url": "https://play.sooplive.co.kr/jjoasseo13/290408708"
     },
