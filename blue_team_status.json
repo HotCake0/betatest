@@ -12,7 +12,11 @@
     {
         "id": "star124",
         "name": "하밍",
-        "is_live": false
+        "is_live": true,
+        "title": "🍊하이밍 !",
+        "viewers": 18,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290404298",
+        "live_url": "https://play.sooplive.co.kr/star124/290404298"
     },
     {
         "id": "villlo",
@@ -22,7 +26,11 @@
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": false
+        "is_live": true,
+        "title": "유키라님과 함께하는 도라에몽 놀이",
+        "viewers": 69,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290404382",
+        "live_url": "https://play.sooplive.co.kr/toocat030/290404382"
     },
     {
         "id": "xpdpfv2",
