@@ -2,14 +2,18 @@
     {
         "id": "rkdalstnld",
         "name": "주드",
-        "is_live": false
+        "is_live": true,
+        "title": "주드 2026 새해 복 많이 받으세요~",
+        "viewers": 9,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290412848",
+        "live_url": "https://play.sooplive.co.kr/rkdalstnld/290412848"
     },
     {
         "id": "gtw0308",
         "name": "황정민",
         "is_live": true,
-        "title": "어 왔니 ?",
-        "viewers": 0,
+        "title": "8시 신과 함께2 때리기",
+        "viewers": 40,
         "thumbnail": "https://liveimg.afreecatv.com/m/290412390",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290412390"
     },
@@ -18,7 +22,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언4 미션환영",
-        "viewers": 20,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404298",
         "live_url": "https://play.sooplive.co.kr/star124/290404298"
     },
@@ -27,7 +31,7 @@
         "name": "왜냐니",
         "is_live": true,
         "title": "띠용이가 적어준 냐니어워드",
-        "viewers": 33,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290410408",
         "live_url": "https://play.sooplive.co.kr/villlo/290410408"
     },
@@ -36,7 +40,7 @@
         "name": "또오냥",
         "is_live": true,
         "title": "새해 빵땅콩 롤 접게 만들기(W.롤땅콩)",
-        "viewers": 214,
+        "viewers": 201,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404382",
         "live_url": "https://play.sooplive.co.kr/toocat030/290404382"
     },
@@ -55,7 +59,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀새해 복 많이 받으세요!🎤",
-        "viewers": 15,
+        "viewers": 30,
         "thumbnail": "https://liveimg.afreecatv.com/m/290411254",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290411254"
     },
