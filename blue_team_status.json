@@ -47,10 +47,6 @@
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": true,
-        "title": "[습레기통] 일출서버 나랑 한해 마무리 하자",
-        "viewers": 37,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290380616",
-        "live_url": "https://play.sooplive.co.kr/o0opha/290380616"
+        "is_live": false
     }
 ]
