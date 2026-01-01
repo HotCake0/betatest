@@ -3,8 +3,8 @@
         "id": "joyjo2",
         "name": "쪼이",
         "is_live": true,
-        "title": "쪼이 오아 라뎃 딴딴 전살치 20000개 미션",
-        "viewers": 111,
+        "title": "쪼이 오랜만에 DP 킬내기 펀딩 한번씩 부탁드립니다",
+        "viewers": 113,
         "thumbnail": "https://liveimg.afreecatv.com/m/290408850",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290408850"
     },
@@ -18,7 +18,7 @@
         "name": "니니밍",
         "is_live": true,
         "title": "[지]력] 배그멸망전 연습w유혜미,김옥독,쏭아야⭐ 룰렛33/330",
-        "viewers": 56,
+        "viewers": 55,
         "thumbnail": "https://liveimg.afreecatv.com/m/290410420",
         "live_url": "https://play.sooplive.co.kr/niniming/290410420"
     },
@@ -37,7 +37,7 @@
         "name": "아눙",
         "is_live": true,
         "title": "[홍신소] 1일차 뉴걸",
-        "viewers": 13,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290414524",
         "live_url": "https://play.sooplive.co.kr/015234/290414524"
     },
@@ -54,18 +54,14 @@
     {
         "id": "jjoasseo13",
         "name": "죠아써",
-        "is_live": true,
-        "title": "[홍신소] 26년에도 죠아써 새해 복 많이 받아용 ( *ฅ́˘ฅ̀*)",
-        "viewers": 18,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290408708",
-        "live_url": "https://play.sooplive.co.kr/jjoasseo13/290408708"
+        "is_live": false
     },
     {
         "id": "kayooo",
         "name": "용아리",
         "is_live": true,
         "title": "🦖신년 타로 보기 (w. 친언니 뉴냥이)🦕방셀 룰렛 오늘까지만! 33 330🦖[사자회]",
-        "viewers": 8,
+        "viewers": 9,
         "thumbnail": "https://liveimg.afreecatv.com/m/290410514",
         "live_url": "https://play.sooplive.co.kr/kayooo/290410514"
     }
