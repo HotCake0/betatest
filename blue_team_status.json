@@ -3,8 +3,8 @@
         "id": "rkdalstnld",
         "name": "주드",
         "is_live": true,
-        "title": "주드 롤 자유랭크 with 떵규,또오냥,빵땅콩,두부랑 2026 새해 복 많이 받으세요~",
-        "viewers": 19,
+        "title": "주드 배틀그라운드",
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290412848",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290412848"
     },
@@ -18,7 +18,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언4 0점..",
-        "viewers": 25,
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404298",
         "live_url": "https://play.sooplive.co.kr/star124/290404298"
     },
@@ -30,18 +30,14 @@
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": true,
-        "title": "빵땅콩 롤 접게 만들기(W.2025 멋진사람들과)",
-        "viewers": 52,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290404382",
-        "live_url": "https://play.sooplive.co.kr/toocat030/290404382"
+        "is_live": false
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 새해 복 많이 받으세요:-) 쫀밤",
-        "viewers": 21,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290421532",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290421532"
     },
@@ -55,7 +51,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀하이큐 극장판 봐요! 안본눈! 스포금지🎤",
-        "viewers": 44,
+        "viewers": 40,
         "thumbnail": "https://liveimg.afreecatv.com/m/290411254",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290411254"
     },
@@ -69,7 +65,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 신과함께 죄와벌 까먹은 눈",
-        "viewers": 31,
+        "viewers": 35,
         "thumbnail": "https://liveimg.afreecatv.com/m/290415692",
         "live_url": "https://play.sooplive.co.kr/o0opha/290415692"
     }
