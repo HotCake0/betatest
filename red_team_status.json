@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 새해 복 많이 받으십시요!",
-        "viewers": 125,
+        "viewers": 110,
         "thumbnail": "https://liveimg.afreecatv.com/m/290408850",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290408850"
     },
@@ -16,7 +16,11 @@
     {
         "id": "niniming",
         "name": "니니밍",
-        "is_live": false
+        "is_live": true,
+        "title": "[지력]새해복 마니받앙🌅⭐ 룰렛33/330",
+        "viewers": 27,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290410420",
+        "live_url": "https://play.sooplive.co.kr/niniming/290410420"
     },
     {
         "id": "doki0818",
@@ -55,6 +59,10 @@
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": false
+        "is_live": true,
+        "title": "🦖해피뉴이어사우루스 / 7시) 신년 타로 보기🦕방셀 룰렛 오늘까지만! 33 330🦖[사자회]",
+        "viewers": 10,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290410514",
+        "live_url": "https://play.sooplive.co.kr/kayooo/290410514"
     }
 ]

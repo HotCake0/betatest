@@ -14,21 +14,25 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언4 미션환영",
-        "viewers": 21,
+        "viewers": 26,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404298",
         "live_url": "https://play.sooplive.co.kr/star124/290404298"
     },
     {
         "id": "villlo",
         "name": "왜냐니",
-        "is_live": false
+        "is_live": true,
+        "title": "새해 복 마니마니",
+        "viewers": 20,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290410408",
+        "live_url": "https://play.sooplive.co.kr/villlo/290410408"
     },
     {
         "id": "toocat030",
         "name": "또오냥",
         "is_live": true,
         "title": "새해 빵땅콩 롤 접게 만들기(W.롤땅콩)",
-        "viewers": 271,
+        "viewers": 257,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404382",
         "live_url": "https://play.sooplive.co.kr/toocat030/290404382"
     },
