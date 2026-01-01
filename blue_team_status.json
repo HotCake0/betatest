@@ -11,18 +11,14 @@
     {
         "id": "gtw0308",
         "name": "황정민",
-        "is_live": true,
-        "title": "8점.",
-        "viewers": 54,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290412390",
-        "live_url": "https://play.sooplive.co.kr/gtw0308/290412390"
+        "is_live": false
     },
     {
         "id": "star124",
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언4 0점..",
-        "viewers": 28,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404298",
         "live_url": "https://play.sooplive.co.kr/star124/290404298"
     },
@@ -36,7 +32,7 @@
         "name": "또오냥",
         "is_live": true,
         "title": "빵땅콩 롤 접게 만들기(W.2025 멋진사람들과)",
-        "viewers": 79,
+        "viewers": 81,
         "thumbnail": "https://liveimg.afreecatv.com/m/290404382",
         "live_url": "https://play.sooplive.co.kr/toocat030/290404382"
     },
@@ -69,7 +65,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 올 한 해도 잘부탁해",
-        "viewers": 30,
+        "viewers": 31,
         "thumbnail": "https://liveimg.afreecatv.com/m/290415692",
         "live_url": "https://play.sooplive.co.kr/o0opha/290415692"
     }
