@@ -4,21 +4,25 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 멸망전 스크림",
-        "viewers": 10,
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290435748",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290435748"
     },
     {
         "id": "gtw0308",
         "name": "황정민",
-        "is_live": false
+        "is_live": true,
+        "title": "어 왔니 ?",
+        "viewers": 39,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290436378",
+        "live_url": "https://play.sooplive.co.kr/gtw0308/290436378"
     },
     {
         "id": "star124",
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언4..",
-        "viewers": 18,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290428068",
         "live_url": "https://play.sooplive.co.kr/star124/290428068"
     },
@@ -36,8 +40,8 @@
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
-        "title": "[고래상사] 좋은 저녁이에오!",
-        "viewers": 59,
+        "title": "[고래상사] 9시 멸망전 스크림",
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290433518",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290433518"
     },
@@ -54,18 +58,14 @@
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": true,
-        "title": "👻폴아웃4 핵전쟁에서 살아남기",
-        "viewers": 30,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290425632",
-        "live_url": "https://play.sooplive.co.kr/etwo22/290425632"
+        "is_live": false
     },
     {
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
         "title": "[습레기통] 신과함께 인과연 기억안나는눈",
-        "viewers": 30,
+        "viewers": 35,
         "thumbnail": "https://liveimg.afreecatv.com/m/290434372",
         "live_url": "https://play.sooplive.co.kr/o0opha/290434372"
     }
