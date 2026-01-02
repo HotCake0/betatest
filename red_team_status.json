@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 멸망전 첫 스크림",
-        "viewers": 101,
+        "viewers": 100,
         "thumbnail": "https://liveimg.afreecatv.com/m/290434050",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290434050"
     },
@@ -27,7 +27,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]엑스컴 신입이지만 사철하고싶어",
-        "viewers": 48,
+        "viewers": 45,
         "thumbnail": "https://liveimg.afreecatv.com/m/290440694",
         "live_url": "https://play.sooplive.co.kr/doki0818/290440694"
     },
@@ -44,18 +44,14 @@
     {
         "id": "isq1158",
         "name": "구월이",
-        "is_live": true,
-        "title": "[사자회] 레프트 구월이는 곰을 찢어",
-        "viewers": 15,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290435882",
-        "live_url": "https://play.sooplive.co.kr/isq1158/290435882"
+        "is_live": false
     },
     {
         "id": "eun0333",
         "name": "우미",
         "is_live": true,
         "title": "[LAC] 하이구 우마이 짧방 - 출근 💖 룰렛 33개",
-        "viewers": 18,
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290447032",
         "live_url": "https://play.sooplive.co.kr/eun0333/290447032"
     },
