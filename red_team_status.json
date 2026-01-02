@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 멸망전 첫 스크림",
-        "viewers": 236,
+        "viewers": 183,
         "thumbnail": "https://liveimg.afreecatv.com/m/290434050",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290434050"
     },
@@ -18,7 +18,7 @@
         "name": "니니밍",
         "is_live": true,
         "title": "[지력] 배그 스크림 저티어 화팅!!w유혜미 김옥독 쏭아야🌅⭐ 룰렛33/330",
-        "viewers": 43,
+        "viewers": 46,
         "thumbnail": "https://liveimg.afreecatv.com/m/290435542",
         "live_url": "https://play.sooplive.co.kr/niniming/290435542"
     },
@@ -27,7 +27,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]엑스컴 신입이지만 사철하고싶어",
-        "viewers": 32,
+        "viewers": 41,
         "thumbnail": "https://liveimg.afreecatv.com/m/290440694",
         "live_url": "https://play.sooplive.co.kr/doki0818/290440694"
     },
@@ -35,8 +35,8 @@
         "id": "khj011219",
         "name": "기찬하",
         "is_live": true,
-        "title": "[습레기통] 도깨비 막차 달리기~~ 현재 9화",
-        "viewers": 38,
+        "title": "[습레기통] 도깨비 막차 달리기~~ 현재 10화",
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290431506",
         "live_url": "https://play.sooplive.co.kr/khj011219/290431506"
     },
@@ -44,8 +44,8 @@
         "id": "015234",
         "name": "아눙",
         "is_live": true,
-        "title": "[홍신소] 눙하ㅏㅏㅏ",
-        "viewers": 11,
+        "title": "[홍신소] LAC",
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290441614",
         "live_url": "https://play.sooplive.co.kr/015234/290441614"
     },
@@ -54,21 +54,25 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 레프트 구월이는 곰을 찢어",
-        "viewers": 16,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290435882",
         "live_url": "https://play.sooplive.co.kr/isq1158/290435882"
     },
     {
         "id": "eun0333",
         "name": "우미",
-        "is_live": false
+        "is_live": true,
+        "title": "[LAC] 하이구! 새해부터 지각으로 24시간 추가 💖 노방종 룰렛49 50",
+        "viewers": 5,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290443150",
+        "live_url": "https://play.sooplive.co.kr/eun0333/290443150"
     },
     {
         "id": "jjoasseo13",
         "name": "죠아써",
         "is_live": true,
         "title": "[홍신소] 완전 밀려보린 죠카페 : 죠이봤?",
-        "viewers": 18,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290435454",
         "live_url": "https://play.sooplive.co.kr/jjoasseo13/290435454"
     },
