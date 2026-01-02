@@ -12,11 +12,7 @@
     {
         "id": "star124",
         "name": "하밍",
-        "is_live": true,
-        "title": "🍊후열 !",
-        "viewers": 24,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290428068",
-        "live_url": "https://play.sooplive.co.kr/star124/290428068"
+        "is_live": false
     },
     {
         "id": "villlo",
