@@ -42,7 +42,11 @@
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": false
+        "is_live": true,
+        "title": "👻아침부터 퇴마사",
+        "viewers": 21,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290425632",
+        "live_url": "https://play.sooplive.co.kr/etwo22/290425632"
     },
     {
         "id": "o0opha",
