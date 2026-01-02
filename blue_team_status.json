@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 멸망전 스크림",
-        "viewers": 26,
+        "viewers": 28,
         "thumbnail": "https://liveimg.afreecatv.com/m/290435748",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290435748"
     },
@@ -12,8 +12,8 @@
         "id": "gtw0308",
         "name": "황정민",
         "is_live": true,
-        "title": "윷놀이 1등 몰아주기 100개",
-        "viewers": 71,
+        "title": "모두의 마블 1등 몰아주기 100개",
+        "viewers": 54,
         "thumbnail": "https://liveimg.afreecatv.com/m/290436378",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290436378"
     },
@@ -21,8 +21,8 @@
         "id": "star124",
         "name": "하밍",
         "is_live": true,
-        "title": "🍊자동 윷놀이 ! 100개 사비빵 w.두부랑,황정민,거지",
-        "viewers": 16,
+        "title": "🍊윷놀이 ! 100개 사비빵 w.두부랑,황정민,거지",
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290428068",
         "live_url": "https://play.sooplive.co.kr/star124/290428068"
     },
@@ -31,25 +31,21 @@
         "name": "왜냐니",
         "is_live": true,
         "title": "[신과 함께2] 제발 날 울려줘",
-        "viewers": 27,
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290437916",
         "live_url": "https://play.sooplive.co.kr/villlo/290437916"
     },
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": true,
-        "title": "돗챠 사주보기ㅎㅎ",
-        "viewers": 79,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290439336",
-        "live_url": "https://play.sooplive.co.kr/toocat030/290439336"
+        "is_live": false
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 9시 멸망전 스크림 (w.희꾸미 곽춘식 깐숙이)",
-        "viewers": 42,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290433518",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290433518"
     },
@@ -71,10 +67,6 @@
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": true,
-        "title": "[습레기통] 나홀로 피크 나들이",
-        "viewers": 38,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290434372",
-        "live_url": "https://play.sooplive.co.kr/o0opha/290434372"
+        "is_live": false
     }
 ]
