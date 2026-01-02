@@ -12,7 +12,11 @@
     {
         "id": "star124",
         "name": "하밍",
-        "is_live": false
+        "is_live": true,
+        "title": "🍊공겜 더클래스룸..",
+        "viewers": 16,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290428068",
+        "live_url": "https://play.sooplive.co.kr/star124/290428068"
     },
     {
         "id": "villlo",
@@ -44,7 +48,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻폴아웃4 핵전쟁에서 살아남기",
-        "viewers": 32,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290425632",
         "live_url": "https://play.sooplive.co.kr/etwo22/290425632"
     },
