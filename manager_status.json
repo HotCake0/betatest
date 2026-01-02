@@ -2,6 +2,10 @@
     {
         "id": "melodingding",
         "name": "멜로딩딩",
-        "is_live": false
+        "is_live": true,
+        "title": "고래상사) 검은화면소통방송",
+        "viewers": 40,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290426784",
+        "live_url": "https://play.sooplive.co.kr/melodingding/290426784"
     }
 ]
