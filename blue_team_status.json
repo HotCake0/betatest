@@ -14,7 +14,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊후열 !",
-        "viewers": 23,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290428068",
         "live_url": "https://play.sooplive.co.kr/star124/290428068"
     },
@@ -30,20 +30,12 @@
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": true,
-        "title": "500일 기념 방송+뉴걸파티 뽑습니다",
-        "viewers": 77,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290448172",
-        "live_url": "https://play.sooplive.co.kr/toocat030/290448172"
+        "is_live": false
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": true,
-        "title": "[고래상사] 멸망전 연습 (w.김마렌 온자두)",
-        "viewers": 24,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290433518",
-        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290433518"
+        "is_live": false
     },
     {
         "id": "rjsdnr115",
