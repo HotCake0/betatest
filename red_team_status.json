@@ -2,11 +2,7 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": true,
-        "title": "쪼이 멸망전 첫 스크림",
-        "viewers": 73,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290434050",
-        "live_url": "https://play.sooplive.co.kr/joyjo2/290434050"
+        "is_live": false
     },
     {
         "id": "wkdghdtjr99",
@@ -47,7 +43,7 @@
         "name": "우미",
         "is_live": true,
         "title": "[LAC] 하이구 우마이 짧방 - 출근 💖 룰렛 33개",
-        "viewers": 30,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290447032",
         "live_url": "https://play.sooplive.co.kr/eun0333/290447032"
     },
