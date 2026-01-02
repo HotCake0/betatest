@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 멸망전 스크림",
-        "viewers": 11,
+        "viewers": 12,
         "thumbnail": "https://liveimg.afreecatv.com/m/290435748",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290435748"
     },
@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "어 왔니 ?",
-        "viewers": 47,
+        "viewers": 57,
         "thumbnail": "https://liveimg.afreecatv.com/m/290436378",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290436378"
     },
@@ -22,14 +22,18 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊아이언4..",
-        "viewers": 19,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290428068",
         "live_url": "https://play.sooplive.co.kr/star124/290428068"
     },
     {
         "id": "villlo",
         "name": "왜냐니",
-        "is_live": false
+        "is_live": true,
+        "title": "야옹",
+        "viewers": 19,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290437916",
+        "live_url": "https://play.sooplive.co.kr/villlo/290437916"
     },
     {
         "id": "toocat030",
@@ -40,8 +44,8 @@
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
-        "title": "[고래상사] 9시 멸망전 스크림",
-        "viewers": 37,
+        "title": "[고래상사] 9시 멸망전 스크림전 손풀기 (w.쪼이 희꾸미 이슬)",
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290433518",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290433518"
     },
