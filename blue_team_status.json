@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드X아칸X준옹X쿠욍 PUBG멸망전 DAY1",
-        "viewers": 32,
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290460104",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290460104"
     },
@@ -20,7 +20,11 @@
     {
         "id": "star124",
         "name": "하밍",
-        "is_live": false
+        "is_live": true,
+        "title": "🍊하이밍 ! 오늘은 증바람 시참데이 !",
+        "viewers": 5,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290465680",
+        "live_url": "https://play.sooplive.co.kr/star124/290465680"
     },
     {
         "id": "villlo",
@@ -37,7 +41,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 지수 배틀그라운드 멸망전 D-DAY",
-        "viewers": 43,
+        "viewers": 39,
         "thumbnail": "https://liveimg.afreecatv.com/m/290459168",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290459168"
     },
@@ -51,7 +55,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀그린캠프 vs 버인협회 스타 메운디 250만원 CK 🎤",
-        "viewers": 26,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290460328",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290460328"
     },
