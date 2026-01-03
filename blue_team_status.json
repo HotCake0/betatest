@@ -27,7 +27,11 @@
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 좋은 저녁이에요:-)",
+        "viewers": 16,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290459168",
+        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290459168"
     },
     {
         "id": "rjsdnr115",
@@ -44,7 +48,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻아.. 망신살..",
-        "viewers": 26,
+        "viewers": 30,
         "thumbnail": "https://liveimg.afreecatv.com/m/290458730",
         "live_url": "https://play.sooplive.co.kr/etwo22/290458730"
     },
@@ -53,7 +57,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "혼자 피크할거야",
-        "viewers": 52,
+        "viewers": 66,
         "thumbnail": "https://liveimg.afreecatv.com/m/290454488",
         "live_url": "https://play.sooplive.co.kr/o0opha/290454488"
     }
