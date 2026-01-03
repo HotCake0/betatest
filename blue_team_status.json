@@ -3,15 +3,19 @@
         "id": "rkdalstnld",
         "name": "주드",
         "is_live": true,
-        "title": "주드 PUBG멸망전 DAY1",
-        "viewers": 16,
+        "title": "주드X아칸X준옹X쿠욍 PUBG멸망전 DAY1",
+        "viewers": 23,
         "thumbnail": "https://liveimg.afreecatv.com/m/290460104",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290460104"
     },
     {
         "id": "gtw0308",
         "name": "황정민",
-        "is_live": false
+        "is_live": true,
+        "title": "어 왔니 ?",
+        "viewers": 28,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290462446",
+        "live_url": "https://play.sooplive.co.kr/gtw0308/290462446"
     },
     {
         "id": "star124",
@@ -32,8 +36,8 @@
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
-        "title": "[고래상사] 7시 배그 멸망전",
-        "viewers": 25,
+        "title": "[고래상사] 지수 배틀그라운드 멸망전 D-DAY",
+        "viewers": 40,
         "thumbnail": "https://liveimg.afreecatv.com/m/290459168",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290459168"
     },
@@ -47,7 +51,7 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀언제 따뜻해지나요?🎤",
-        "viewers": 13,
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290460328",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290460328"
     },
@@ -55,8 +59,8 @@
         "id": "etwo22",
         "name": "이투",
         "is_live": true,
-        "title": "👻아.. 망신살..",
-        "viewers": 31,
+        "title": "👻폴아웃4 핵전쟁에서 살아남기 달려봅니다",
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290458730",
         "live_url": "https://play.sooplive.co.kr/etwo22/290458730"
     },
@@ -65,7 +69,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "혼자 피크할거야",
-        "viewers": 70,
+        "viewers": 78,
         "thumbnail": "https://liveimg.afreecatv.com/m/290454488",
         "live_url": "https://play.sooplive.co.kr/o0opha/290454488"
     }
