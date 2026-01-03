@@ -7,11 +7,7 @@
     {
         "id": "wkdghdtjr99",
         "name": "여백이다",
-        "is_live": true,
-        "title": "바카르마) 검성 2.4뉴비... 올리기 빡세다",
-        "viewers": 11,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290449742",
-        "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290449742"
+        "is_live": false
     },
     {
         "id": "niniming",
@@ -23,7 +19,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]엑스컴 신입이지만 사령관난이도",
-        "viewers": 72,
+        "viewers": 73,
         "thumbnail": "https://liveimg.afreecatv.com/m/290440694",
         "live_url": "https://play.sooplive.co.kr/doki0818/290440694"
     },
@@ -45,11 +41,7 @@
     {
         "id": "eun0333",
         "name": "우미",
-        "is_live": true,
-        "title": "[LAC] 하이구 우마이 짧방 - 출근 💖 룰렛 33개",
-        "viewers": 31,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290447032",
-        "live_url": "https://play.sooplive.co.kr/eun0333/290447032"
+        "is_live": false
     },
     {
         "id": "jjoasseo13",
