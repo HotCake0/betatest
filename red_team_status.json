@@ -22,11 +22,7 @@
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": true,
-        "title": "[구플] 노래연습뱅송",
-        "viewers": 8,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290475050",
-        "live_url": "https://play.sooplive.co.kr/khj011219/290475050"
+        "is_live": false
     },
     {
         "id": "015234",
