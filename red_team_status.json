@@ -7,11 +7,7 @@
     {
         "id": "wkdghdtjr99",
         "name": "여백이다",
-        "is_live": true,
-        "title": "바카르마) 검성 일주일차 2.7 달성... 부캐육성해야겠지?",
-        "viewers": 12,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290459228",
-        "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290459228"
+        "is_live": false
     },
     {
         "id": "niniming",
@@ -28,7 +24,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[구플] 노래연습뱅송",
-        "viewers": 2,
+        "viewers": 8,
         "thumbnail": "https://liveimg.afreecatv.com/m/290475050",
         "live_url": "https://play.sooplive.co.kr/khj011219/290475050"
     },
@@ -57,7 +53,7 @@
         "name": "용아리",
         "is_live": true,
         "title": "용사님들 덕에 30레벨 찍은 공룡🦕[사자회]",
-        "viewers": 20,
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290456484",
         "live_url": "https://play.sooplive.co.kr/kayooo/290456484"
     }

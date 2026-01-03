@@ -37,11 +37,7 @@
     {
         "id": "yotsubakoe",
         "name": "코에",
-        "is_live": true,
-        "title": "🍀후열 로기다&추멘 벌칙보기!🎤",
-        "viewers": 30,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290460328",
-        "live_url": "https://play.sooplive.co.kr/yotsubakoe/290460328"
+        "is_live": false
     },
     {
         "id": "etwo22",
