@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "어 와",
-        "viewers": 44,
+        "viewers": 39,
         "thumbnail": "https://liveimg.afreecatv.com/m/290462446",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290462446"
     },
@@ -22,7 +22,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊하이밍 ! 오늘은 증바람 시참데이 !",
-        "viewers": 14,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290465680",
         "live_url": "https://play.sooplive.co.kr/star124/290465680"
     },
@@ -41,7 +41,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 지수 수피랜드",
-        "viewers": 24,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290459168",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290459168"
     },
@@ -64,17 +64,13 @@
         "name": "이투",
         "is_live": true,
         "title": "👻12시) 진호님 진드기 크루의 심야 미스테리 게스트",
-        "viewers": 48,
+        "viewers": 54,
         "thumbnail": "https://liveimg.afreecatv.com/m/290458730",
         "live_url": "https://play.sooplive.co.kr/etwo22/290458730"
     },
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": true,
-        "title": "잠깐 소통",
-        "viewers": 52,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290467548",
-        "live_url": "https://play.sooplive.co.kr/o0opha/290467548"
+        "is_live": false
     }
 ]
