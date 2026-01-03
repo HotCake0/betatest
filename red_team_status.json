@@ -9,7 +9,7 @@
         "name": "여백이다",
         "is_live": true,
         "title": "바카르마) 검성 일주일차 2.7 달성... 부캐육성해야겠지?",
-        "viewers": 14,
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290459228",
         "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290459228"
     },
@@ -41,11 +41,7 @@
     {
         "id": "eun0333",
         "name": "우미",
-        "is_live": true,
-        "title": "[LAC] 하이구 우마이 갱찰 시점입니다 💖 룰렛 33개",
-        "viewers": 36,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290459824",
-        "live_url": "https://play.sooplive.co.kr/eun0333/290459824"
+        "is_live": false
     },
     {
         "id": "jjoasseo13",
@@ -57,7 +53,7 @@
         "name": "용아리",
         "is_live": true,
         "title": "롤 레벨작🦖30레벨 못 가면 퇴출입니다 도와주세요🦕[사자회]",
-        "viewers": 15,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290456484",
         "live_url": "https://play.sooplive.co.kr/kayooo/290456484"
     }
