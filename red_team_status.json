@@ -26,7 +26,11 @@
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": false
+        "is_live": true,
+        "title": "[구플] 노래연습뱅송",
+        "viewers": 2,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290475050",
+        "live_url": "https://play.sooplive.co.kr/khj011219/290475050"
     },
     {
         "id": "015234",
@@ -53,7 +57,7 @@
         "name": "용아리",
         "is_live": true,
         "title": "용사님들 덕에 30레벨 찍은 공룡🦕[사자회]",
-        "viewers": 22,
+        "viewers": 20,
         "thumbnail": "https://liveimg.afreecatv.com/m/290456484",
         "live_url": "https://play.sooplive.co.kr/kayooo/290456484"
     }
