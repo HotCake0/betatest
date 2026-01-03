@@ -42,14 +42,18 @@
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": false
+        "is_live": true,
+        "title": "👻아.. 망신살..",
+        "viewers": 26,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290458730",
+        "live_url": "https://play.sooplive.co.kr/etwo22/290458730"
     },
     {
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
-        "title": "소통",
-        "viewers": 31,
+        "title": "혼자 피크할거야",
+        "viewers": 52,
         "thumbnail": "https://liveimg.afreecatv.com/m/290454488",
         "live_url": "https://play.sooplive.co.kr/o0opha/290454488"
     }

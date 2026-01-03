@@ -2,7 +2,11 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": false
+        "is_live": true,
+        "title": "쪼이 멸망전 D-DAY 반갑습니다",
+        "viewers": 0,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290459106",
+        "live_url": "https://play.sooplive.co.kr/joyjo2/290459106"
     },
     {
         "id": "wkdghdtjr99",
@@ -12,7 +16,11 @@
     {
         "id": "niniming",
         "name": "니니밍",
-        "is_live": false
+        "is_live": true,
+        "title": "[지력] 오늘 멸망전이야야!!⭐ 룰렛33/330",
+        "viewers": 14,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290459004",
+        "live_url": "https://play.sooplive.co.kr/niniming/290459004"
     },
     {
         "id": "doki0818",
@@ -24,7 +32,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습레기통] 가스트 레슨 오랜만에 노래교실",
-        "viewers": 52,
+        "viewers": 55,
         "thumbnail": "https://liveimg.afreecatv.com/m/290452508",
         "live_url": "https://play.sooplive.co.kr/khj011219/290452508"
     },
@@ -53,7 +61,7 @@
         "name": "용아리",
         "is_live": true,
         "title": "🦖아기공룡 롤 30렙 가는거 도와주실 분 구함!!🦕[사자회]",
-        "viewers": 14,
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290456484",
         "live_url": "https://play.sooplive.co.kr/kayooo/290456484"
     }
