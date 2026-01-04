@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드X아칸X준옹X쿠욍/써기X보라X달묘X치쿠 PUBG멸망전 DAY2",
-        "viewers": 34,
+        "viewers": 26,
         "thumbnail": "https://liveimg.afreecatv.com/m/290487460",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290487460"
     },
@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "8시 윤루트식 배그 윤루트에게 보여주기 w 윤루트 슨미 두부랑",
-        "viewers": 47,
+        "viewers": 55,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486260",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290486260"
     },
@@ -22,14 +22,18 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊치유 증강칼바람CK ! 대결이 부탁드립니다 ㅠㅠ",
-        "viewers": 12,
+        "viewers": 15,
         "thumbnail": "https://liveimg.afreecatv.com/m/290479404",
         "live_url": "https://play.sooplive.co.kr/star124/290479404"
     },
     {
         "id": "villlo",
         "name": "왜냐니",
-        "is_live": false
+        "is_live": true,
+        "title": "냐하핫",
+        "viewers": 11,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290495300",
+        "live_url": "https://play.sooplive.co.kr/villlo/290495300"
     },
     {
         "id": "toocat030",
@@ -41,7 +45,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] ''성괴'' 멸망전 2일차",
-        "viewers": 37,
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290484858",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290484858"
     },
@@ -50,7 +54,7 @@
         "name": "고채린",
         "is_live": true,
         "title": "[홍신소] 고순덕와써요 !",
-        "viewers": 24,
+        "viewers": 28,
         "thumbnail": "https://liveimg.afreecatv.com/m/290484290",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290484290"
     },
@@ -58,8 +62,8 @@
         "id": "yotsubakoe",
         "name": "코에",
         "is_live": true,
-        "title": "🍀저녁의 코에 등장!🎤",
-        "viewers": 38,
+        "title": "🍀스타 노래 맞추기 할사람 없어서 혼자함...ㅠ ㅠ🎤",
+        "viewers": 37,
         "thumbnail": "https://liveimg.afreecatv.com/m/290490924",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290490924"
     },
@@ -68,7 +72,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻8시15분) 신과함께 인과연 안본눈 같이보기",
-        "viewers": 31,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486470",
         "live_url": "https://play.sooplive.co.kr/etwo22/290486470"
     },
@@ -77,7 +81,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습팸] 뉴멤버와 좋은 날",
-        "viewers": 53,
+        "viewers": 51,
         "thumbnail": "https://liveimg.afreecatv.com/m/290480328",
         "live_url": "https://play.sooplive.co.kr/o0opha/290480328"
     }
