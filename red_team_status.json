@@ -3,8 +3,8 @@
         "id": "joyjo2",
         "name": "쪼이",
         "is_live": true,
-        "title": "쪼이 DAY2 오늘은 다릅니다",
-        "viewers": 72,
+        "title": "쪼이 멸망전 DAY2 오늘은 다릅니다",
+        "viewers": 237,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486310",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290486310"
     },
@@ -18,7 +18,7 @@
         "name": "니니밍",
         "is_live": true,
         "title": "[지력] 채금성사!!!별별랭킹⭐룰렛33/330",
-        "viewers": 46,
+        "viewers": 49,
         "thumbnail": "https://liveimg.afreecatv.com/m/290484214",
         "live_url": "https://play.sooplive.co.kr/niniming/290484214"
     },
@@ -32,7 +32,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습팸] 크루 이름 바뀌고,, 뉴멤버 면접본다고 합니다",
-        "viewers": 114,
+        "viewers": 104,
         "thumbnail": "https://liveimg.afreecatv.com/m/290481050",
         "live_url": "https://play.sooplive.co.kr/khj011219/290481050"
     },
@@ -41,7 +41,7 @@
         "name": "아눙",
         "is_live": true,
         "title": "[홍신소] 5시 홍신소",
-        "viewers": 16,
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290483838",
         "live_url": "https://play.sooplive.co.kr/015234/290483838"
     },
@@ -50,7 +50,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 점호 전 증칼 한 판",
-        "viewers": 14,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486066",
         "live_url": "https://play.sooplive.co.kr/isq1158/290486066"
     },
@@ -64,13 +64,17 @@
         "name": "죠아써",
         "is_live": true,
         "title": "[홍신소] 입병 때문에 발음이 이상해영 오늘은 굿바이 홍키 컨텐츠...",
-        "viewers": 20,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290483482",
         "live_url": "https://play.sooplive.co.kr/jjoasseo13/290483482"
     },
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": false
+        "is_live": true,
+        "title": "용아리가 왔어용🦕[사자회]",
+        "viewers": 9,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290487350",
+        "live_url": "https://play.sooplive.co.kr/kayooo/290487350"
     }
 ]
