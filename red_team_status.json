@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 멸망전 DAY2 오늘은 다릅니다",
-        "viewers": 472,
+        "viewers": 516,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486310",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290486310"
     },
@@ -16,11 +16,7 @@
     {
         "id": "niniming",
         "name": "니니밍",
-        "is_live": true,
-        "title": "[지력] 우리팀잘해땨아아!⭐룰렛33/330",
-        "viewers": 53,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290484214",
-        "live_url": "https://play.sooplive.co.kr/niniming/290484214"
+        "is_live": false
     },
     {
         "id": "doki0818",
@@ -32,32 +28,32 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습팸] 새멤버랑 증칼내전합니다,, 미션.. 없나요 ㅠㅠ",
-        "viewers": 41,
+        "viewers": 82,
         "thumbnail": "https://liveimg.afreecatv.com/m/290481050",
         "live_url": "https://play.sooplive.co.kr/khj011219/290481050"
     },
     {
         "id": "015234",
         "name": "아눙",
-        "is_live": true,
-        "title": "[홍신소] LAC EMS 면접",
-        "viewers": 35,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290483838",
-        "live_url": "https://play.sooplive.co.kr/015234/290483838"
+        "is_live": false
     },
     {
         "id": "isq1158",
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 배그 미션 주실 오빵이!? w.고채린 상득 비샤",
-        "viewers": 17,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486066",
         "live_url": "https://play.sooplive.co.kr/isq1158/290486066"
     },
     {
         "id": "eun0333",
         "name": "우미",
-        "is_live": false
+        "is_live": true,
+        "title": "[LAC] 하이구 새벽을 책임질 우마이 등장 💖 룰렛 33개",
+        "viewers": 13,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290496992",
+        "live_url": "https://play.sooplive.co.kr/eun0333/290496992"
     },
     {
         "id": "jjoasseo13",
@@ -69,7 +65,7 @@
         "name": "용아리",
         "is_live": true,
         "title": "🦖공룡이야기 읽으면서 후열🦕베스신청했어용",
-        "viewers": 20,
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290487350",
         "live_url": "https://play.sooplive.co.kr/kayooo/290487350"
     }
