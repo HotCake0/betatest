@@ -4,7 +4,7 @@
         "name": "쪼이",
         "is_live": true,
         "title": "쪼이 멸망전 DAY2 오늘은 다릅니다",
-        "viewers": 514,
+        "viewers": 504,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486310",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290486310"
     },
@@ -18,7 +18,7 @@
         "name": "니니밍",
         "is_live": true,
         "title": "[지력] 멸망전 수수련팀 드갸자!! w유혜미 김옥독 쏭아야⭐룰렛33/330",
-        "viewers": 86,
+        "viewers": 83,
         "thumbnail": "https://liveimg.afreecatv.com/m/290484214",
         "live_url": "https://play.sooplive.co.kr/niniming/290484214"
     },
@@ -31,8 +31,8 @@
         "id": "khj011219",
         "name": "기찬하",
         "is_live": true,
-        "title": "[습팸] 크루 이름 바뀌고,, 뉴멤버랑 토크",
-        "viewers": 65,
+        "title": "[습팸] 새멤버랑 증칼내전합니다,,",
+        "viewers": 48,
         "thumbnail": "https://liveimg.afreecatv.com/m/290481050",
         "live_url": "https://play.sooplive.co.kr/khj011219/290481050"
     },
@@ -41,7 +41,7 @@
         "name": "아눙",
         "is_live": true,
         "title": "[홍신소] LAC EMS 면접",
-        "viewers": 31,
+        "viewers": 42,
         "thumbnail": "https://liveimg.afreecatv.com/m/290483838",
         "live_url": "https://play.sooplive.co.kr/015234/290483838"
     },
@@ -50,7 +50,7 @@
         "name": "구월이",
         "is_live": true,
         "title": "[사자회] 사자회 롤 내전",
-        "viewers": 16,
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486066",
         "live_url": "https://play.sooplive.co.kr/isq1158/290486066"
     },
@@ -62,18 +62,14 @@
     {
         "id": "jjoasseo13",
         "name": "죠아써",
-        "is_live": true,
-        "title": "[홍신소] 입병 때문에 발음이 이상해영 침이 계속 나와여",
-        "viewers": 20,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290483482",
-        "live_url": "https://play.sooplive.co.kr/jjoasseo13/290483482"
+        "is_live": false
     },
     {
         "id": "kayooo",
         "name": "용아리",
         "is_live": true,
-        "title": "🦖용아리 방송 첫 별별랭킹 보기 🦁사자회 졸업한 공룡🦕",
-        "viewers": 20,
+        "title": "🦖공룡의 새해 계획을 세워보쟈🦕",
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290487350",
         "live_url": "https://play.sooplive.co.kr/kayooo/290487350"
     }
