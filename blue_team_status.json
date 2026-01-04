@@ -12,7 +12,11 @@
     {
         "id": "star124",
         "name": "하밍",
-        "is_live": false
+        "is_live": true,
+        "title": "🍊공겜 2트.. 더 클래스룸..!",
+        "viewers": 21,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290479404",
+        "live_url": "https://play.sooplive.co.kr/star124/290479404"
     },
     {
         "id": "villlo",
@@ -47,6 +51,10 @@
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": false
+        "is_live": true,
+        "title": "소통합시다",
+        "viewers": 21,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290480328",
+        "live_url": "https://play.sooplive.co.kr/o0opha/290480328"
     }
 ]
