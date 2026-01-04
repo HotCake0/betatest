@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 롤 자유랭크",
-        "viewers": 9,
+        "viewers": 7,
         "thumbnail": "https://liveimg.afreecatv.com/m/290487460",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290487460"
     },
@@ -13,7 +13,7 @@
         "name": "황정민",
         "is_live": true,
         "title": "증강 칼바람 w 슨미 힙비 거지",
-        "viewers": 36,
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290486260",
         "live_url": "https://play.sooplive.co.kr/gtw0308/290486260"
     },
@@ -37,7 +37,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 지수 빅피쳐 림큐 연양이 워크랜드 1등 두가좌:)",
-        "viewers": 22,
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290484858",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290484858"
     },
@@ -51,25 +51,21 @@
         "name": "코에",
         "is_live": true,
         "title": "🍀2부 롤 협곡으로 떠납니다! (w.초롱,주드,빈쫑,해이)🎤",
-        "viewers": 29,
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290490924",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290490924"
     },
     {
         "id": "etwo22",
         "name": "이투",
-        "is_live": true,
-        "title": "👻폴아웃4 핵전쟁에서 살아남기",
-        "viewers": 26,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290486470",
-        "live_url": "https://play.sooplive.co.kr/etwo22/290486470"
+        "is_live": false
     },
     {
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
         "title": "[습팸] 잘놀았어?",
-        "viewers": 38,
+        "viewers": 39,
         "thumbnail": "https://liveimg.afreecatv.com/m/290480328",
         "live_url": "https://play.sooplive.co.kr/o0opha/290480328"
     }
