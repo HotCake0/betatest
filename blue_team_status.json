@@ -14,7 +14,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊마이리틀퍼피 울보예약",
-        "viewers": 14,
+        "viewers": 13,
         "thumbnail": "https://liveimg.afreecatv.com/m/290479404",
         "live_url": "https://play.sooplive.co.kr/star124/290479404"
     },
@@ -28,21 +28,25 @@
         "name": "또오냥",
         "is_live": true,
         "title": "[온양선녀]문모모님 편(FEAT.조수 김나오)",
-        "viewers": 97,
+        "viewers": 98,
         "thumbnail": "https://liveimg.afreecatv.com/m/290483036",
         "live_url": "https://play.sooplive.co.kr/toocat030/290483036"
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 빵구워:D",
+        "viewers": 19,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290484858",
+        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290484858"
     },
     {
         "id": "rjsdnr115",
         "name": "고채린",
         "is_live": true,
         "title": "[홍신소] 새 복 많 받갑습니둥",
-        "viewers": 13,
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290484290",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290484290"
     },
@@ -60,8 +64,8 @@
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
-        "title": "가스트 vs 미스트 배심원",
-        "viewers": 43,
+        "title": "습레기통 네이밍 정하는 날",
+        "viewers": 42,
         "thumbnail": "https://liveimg.afreecatv.com/m/290480328",
         "live_url": "https://play.sooplive.co.kr/o0opha/290480328"
     }
