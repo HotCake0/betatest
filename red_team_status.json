@@ -23,18 +23,14 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]신입이지만 사령관난이도에옹>__<",
-        "viewers": 64,
+        "viewers": 70,
         "thumbnail": "https://liveimg.afreecatv.com/m/290497626",
         "live_url": "https://play.sooplive.co.kr/doki0818/290497626"
     },
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": true,
-        "title": "[습팸] 500일 감사합니닷 (하트)",
-        "viewers": 38,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290481050",
-        "live_url": "https://play.sooplive.co.kr/khj011219/290481050"
+        "is_live": false
     },
     {
         "id": "015234",
@@ -51,7 +47,7 @@
         "name": "우미",
         "is_live": true,
         "title": "[LAC] 하이구 새벽을 책임질 우마이 등장 💖 룰렛 33개",
-        "viewers": 25,
+        "viewers": 24,
         "thumbnail": "https://liveimg.afreecatv.com/m/290496992",
         "live_url": "https://play.sooplive.co.kr/eun0333/290496992"
     },
