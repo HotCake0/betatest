@@ -2,11 +2,7 @@
     {
         "id": "rkdalstnld",
         "name": "주드",
-        "is_live": true,
-        "title": "주드 아이온2 시엘",
-        "viewers": 14,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290512906",
-        "live_url": "https://play.sooplive.co.kr/rkdalstnld/290512906"
+        "is_live": false
     },
     {
         "id": "gtw0308",
@@ -18,7 +14,7 @@
         "name": "하밍",
         "is_live": true,
         "title": "🍊휴방기념 아이언3가기 !",
-        "viewers": 18,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290522854",
         "live_url": "https://play.sooplive.co.kr/star124/290522854"
     },
@@ -27,7 +23,7 @@
         "name": "왜냐니",
         "is_live": true,
         "title": "생배골드, 사기 매물 진짜로 만들기 (w.손냐미)",
-        "viewers": 26,
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290518002",
         "live_url": "https://play.sooplive.co.kr/villlo/290518002"
     },
@@ -41,25 +37,21 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 지수랑 마렌이랑 방과후 배그교실",
-        "viewers": 60,
+        "viewers": 61,
         "thumbnail": "https://liveimg.afreecatv.com/m/290510794",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290510794"
     },
     {
         "id": "rjsdnr115",
         "name": "고채린",
-        "is_live": true,
-        "title": "[홍신소] 왜 힘들지..?",
-        "viewers": 29,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290511894",
-        "live_url": "https://play.sooplive.co.kr/rjsdnr115/290511894"
+        "is_live": false
     },
     {
         "id": "yotsubakoe",
         "name": "코에",
         "is_live": true,
         "title": "🍀마이 리틀 퍼피.. 반려인이 직접 해보겠습니다!🎤",
-        "viewers": 26,
+        "viewers": 24,
         "thumbnail": "https://liveimg.afreecatv.com/m/290518632",
         "live_url": "https://play.sooplive.co.kr/yotsubakoe/290518632"
     },
@@ -68,7 +60,7 @@
         "name": "이투",
         "is_live": true,
         "title": "👻폴아웃4 핵전쟁에서 살아남기 끝장내자",
-        "viewers": 29,
+        "viewers": 30,
         "thumbnail": "https://liveimg.afreecatv.com/m/290512636",
         "live_url": "https://play.sooplive.co.kr/etwo22/290512636"
     },
@@ -77,7 +69,7 @@
         "name": "서라0",
         "is_live": true,
         "title": "[습팸] 습팸 유닛 배그 w. 하루,뽀뽀,분팡",
-        "viewers": 40,
+        "viewers": 43,
         "thumbnail": "https://liveimg.afreecatv.com/m/290511278",
         "live_url": "https://play.sooplive.co.kr/o0opha/290511278"
     }
