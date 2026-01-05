@@ -2,11 +2,7 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": true,
-        "title": "쪼이 딴딴이당배 킬내기 1부승 2부 리벤지",
-        "viewers": 163,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290509612",
-        "live_url": "https://play.sooplive.co.kr/joyjo2/290509612"
+        "is_live": false
     },
     {
         "id": "wkdghdtjr99",
@@ -23,18 +19,14 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]엑스컴 나도 할수잇어 사령관!!!!!!!!!",
-        "viewers": 62,
+        "viewers": 68,
         "thumbnail": "https://liveimg.afreecatv.com/m/290524892",
         "live_url": "https://play.sooplive.co.kr/doki0818/290524892"
     },
     {
         "id": "khj011219",
         "name": "기찬하",
-        "is_live": true,
-        "title": "[습팸] 슬프네요ㅣ룰렛33/175 연차o",
-        "viewers": 107,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290508008",
-        "live_url": "https://play.sooplive.co.kr/khj011219/290508008"
+        "is_live": false
     },
     {
         "id": "015234",
@@ -45,8 +37,8 @@
         "id": "isq1158",
         "name": "구월이",
         "is_live": true,
-        "title": "[사자회] 차투리와 솔랭 지면 강등입니다",
-        "viewers": 20,
+        "title": "[사자회] 차투리 중력 춘봉 비샤 막차 증칼",
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290513622",
         "live_url": "https://play.sooplive.co.kr/isq1158/290513622"
     },
@@ -54,8 +46,8 @@
         "id": "eun0333",
         "name": "우미",
         "is_live": true,
-        "title": "[LAC] 롤동 핀볼 떨끼리 자랭! 미션 환영 💖 룰렛 33개",
-        "viewers": 13,
+        "title": "[LAC/롤동] 내전 떨끼리 자랭! 후열 우마이 💖 룰렛 33개",
+        "viewers": 23,
         "thumbnail": "https://liveimg.afreecatv.com/m/290523134",
         "live_url": "https://play.sooplive.co.kr/eun0333/290523134"
     },
@@ -67,10 +59,6 @@
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": true,
-        "title": "심해동물 알아보기🦖짝꿍 공룡 찾아드려요 10개🦕베스신청했어용",
-        "viewers": 10,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290510928",
-        "live_url": "https://play.sooplive.co.kr/kayooo/290510928"
+        "is_live": false
     }
 ]
