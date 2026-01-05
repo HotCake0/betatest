@@ -3,8 +3,8 @@
         "id": "joyjo2",
         "name": "쪼이",
         "is_live": true,
-        "title": "쪼이 조금 늦었습니다 ㅎㅎ;;;",
-        "viewers": 141,
+        "title": "쪼이 첫 롤링페이퍼 읽어보겠습니다 ㄷㄱㄷㄱ",
+        "viewers": 247,
         "thumbnail": "https://liveimg.afreecatv.com/m/290509612",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290509612"
     },
@@ -27,8 +27,8 @@
         "id": "khj011219",
         "name": "기찬하",
         "is_live": true,
-        "title": "[습팸] 500일엔 뭘해야할까요",
-        "viewers": 70,
+        "title": "[습팸] 풀트전에 스팸코리아 카페털기!!!",
+        "viewers": 51,
         "thumbnail": "https://liveimg.afreecatv.com/m/290508008",
         "live_url": "https://play.sooplive.co.kr/khj011219/290508008"
     },
@@ -55,6 +55,10 @@
     {
         "id": "kayooo",
         "name": "용아리",
-        "is_live": false
+        "is_live": true,
+        "title": "🦖공룡 등장! / 7시) 똥겜챌린지 w. 채하🦕베스신청했어용",
+        "viewers": 7,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290510928",
+        "live_url": "https://play.sooplive.co.kr/kayooo/290510928"
     }
 ]

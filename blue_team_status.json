@@ -22,12 +22,20 @@
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": false
+        "is_live": true,
+        "title": "뉴걸파티 총 상금 7000개 이상!!!!",
+        "viewers": 41,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290510790",
+        "live_url": "https://play.sooplive.co.kr/toocat030/290510790"
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 좋은 저녁이에오:0",
+        "viewers": 43,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290510794",
+        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290510794"
     },
     {
         "id": "rjsdnr115",
