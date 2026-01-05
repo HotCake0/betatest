@@ -24,7 +24,7 @@
         "name": "또오냥",
         "is_live": true,
         "title": "뉴걸파티 총 상금 7000개 이상!!!!",
-        "viewers": 41,
+        "viewers": 79,
         "thumbnail": "https://liveimg.afreecatv.com/m/290510790",
         "live_url": "https://play.sooplive.co.kr/toocat030/290510790"
     },
@@ -32,15 +32,19 @@
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
-        "title": "[고래상사] 좋은 저녁이에오:0",
-        "viewers": 43,
+        "title": "[고래상사] 지수랑 마렌이랑 방과후 배그교실",
+        "viewers": 50,
         "thumbnail": "https://liveimg.afreecatv.com/m/290510794",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290510794"
     },
     {
         "id": "rjsdnr115",
         "name": "고채린",
-        "is_live": false
+        "is_live": true,
+        "title": "[홍신소] 잠시 단잠에 꿈꾸다 온사람..",
+        "viewers": 10,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290511894",
+        "live_url": "https://play.sooplive.co.kr/rjsdnr115/290511894"
     },
     {
         "id": "yotsubakoe",
@@ -55,6 +59,10 @@
     {
         "id": "o0opha",
         "name": "서라0",
-        "is_live": false
+        "is_live": true,
+        "title": "[습팸] 애들아..!",
+        "viewers": 22,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290511278",
+        "live_url": "https://play.sooplive.co.kr/o0opha/290511278"
     }
 ]
