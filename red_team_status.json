@@ -3,8 +3,8 @@
         "id": "joyjo2",
         "name": "쪼이",
         "is_live": true,
-        "title": "쪼이 딴딴이당 주최 킬내기 대결이 받습니다",
-        "viewers": 215,
+        "title": "쪼이 딴딴이당배 킬내기 오아밸런스 오늘도 이기겠습니다",
+        "viewers": 226,
         "thumbnail": "https://liveimg.afreecatv.com/m/290509612",
         "live_url": "https://play.sooplive.co.kr/joyjo2/290509612"
     },
@@ -28,7 +28,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습팸] 500일 기념 풀트인데 익명으로 수장님한테훈수두겠습니다",
-        "viewers": 53,
+        "viewers": 77,
         "thumbnail": "https://liveimg.afreecatv.com/m/290508008",
         "live_url": "https://play.sooplive.co.kr/khj011219/290508008"
     },
@@ -40,7 +40,11 @@
     {
         "id": "isq1158",
         "name": "구월이",
-        "is_live": false
+        "is_live": true,
+        "title": "[사자회] 앙냥!!",
+        "viewers": 10,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290513622",
+        "live_url": "https://play.sooplive.co.kr/isq1158/290513622"
     },
     {
         "id": "eun0333",
