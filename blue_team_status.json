@@ -4,7 +4,7 @@
         "name": "주드",
         "is_live": true,
         "title": "주드 배그 경쟁전",
-        "viewers": 20,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290512906",
         "live_url": "https://play.sooplive.co.kr/rkdalstnld/290512906"
     },
@@ -21,14 +21,18 @@
     {
         "id": "villlo",
         "name": "왜냐니",
-        "is_live": false
+        "is_live": true,
+        "title": "생배골드, 사기 매물 진짜로 만들기",
+        "viewers": 19,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290518002",
+        "live_url": "https://play.sooplive.co.kr/villlo/290518002"
     },
     {
         "id": "toocat030",
         "name": "또오냥",
         "is_live": true,
         "title": "뉴걸파티 총 상금 7000개 이상!!!!",
-        "viewers": 88,
+        "viewers": 78,
         "thumbnail": "https://liveimg.afreecatv.com/m/290510790",
         "live_url": "https://play.sooplive.co.kr/toocat030/290510790"
     },
@@ -37,7 +41,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 지수랑 마렌이랑 방과후 배그교실",
-        "viewers": 56,
+        "viewers": 63,
         "thumbnail": "https://liveimg.afreecatv.com/m/290510794",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290510794"
     },
@@ -46,21 +50,25 @@
         "name": "고채린",
         "is_live": true,
         "title": "[홍신소] 잠시 단잠에 꿈꾸다 온사람..",
-        "viewers": 18,
+        "viewers": 20,
         "thumbnail": "https://liveimg.afreecatv.com/m/290511894",
         "live_url": "https://play.sooplive.co.kr/rjsdnr115/290511894"
     },
     {
         "id": "yotsubakoe",
         "name": "코에",
-        "is_live": false
+        "is_live": true,
+        "title": "🍀너무 추운데 너 없으면 방송 안되.. 🎤",
+        "viewers": 31,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290518632",
+        "live_url": "https://play.sooplive.co.kr/yotsubakoe/290518632"
     },
     {
         "id": "etwo22",
         "name": "이투",
         "is_live": true,
         "title": "👻행운이 팡팡 터지는 방송",
-        "viewers": 29,
+        "viewers": 28,
         "thumbnail": "https://liveimg.afreecatv.com/m/290512636",
         "live_url": "https://play.sooplive.co.kr/etwo22/290512636"
     },
@@ -68,8 +76,8 @@
         "id": "o0opha",
         "name": "서라0",
         "is_live": true,
-        "title": "[습팸] 오빠 나 방송켰어",
-        "viewers": 40,
+        "title": "[습팸] 오빠 나 배그켰어",
+        "viewers": 41,
         "thumbnail": "https://liveimg.afreecatv.com/m/290511278",
         "live_url": "https://play.sooplive.co.kr/o0opha/290511278"
     }
