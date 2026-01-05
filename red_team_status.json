@@ -2,7 +2,11 @@
     {
         "id": "joyjo2",
         "name": "쪼이",
-        "is_live": false
+        "is_live": true,
+        "title": "쪼이 조금 늦었습니다 ㅎㅎ;;;",
+        "viewers": 141,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290509612",
+        "live_url": "https://play.sooplive.co.kr/joyjo2/290509612"
     },
     {
         "id": "wkdghdtjr99",
@@ -24,7 +28,7 @@
         "name": "기찬하",
         "is_live": true,
         "title": "[습팸] 500일엔 뭘해야할까요",
-        "viewers": 52,
+        "viewers": 70,
         "thumbnail": "https://liveimg.afreecatv.com/m/290508008",
         "live_url": "https://play.sooplive.co.kr/khj011219/290508008"
     },
