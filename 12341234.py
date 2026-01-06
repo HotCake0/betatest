@@ -4,20 +4,26 @@ import os
 
 # 팀 리스트 정의
 red_team = {
-    "joyjo2": "쪼이", "wkdghdtjr99": "여백이다", "niniming": "니니밍",
-    "doki0818": "감자가비", "khj011219": "기찬하", "015234": "아눙",
-    "isq1158": "구월이", "eun0333": "우미", "jjoasseo13": "죠아써", "kayooo": "용아리"
+    "apaceh2401": "디엘",
+    "opix" : "태양권",
+    "qw0949" : "조혜원",
+    "indian6402" : "후",
+    "chloesy" : "우서",
+    "whiteone325" : "난워니",
+    "minguri1016" : "배민정",
+    "bach023" : "울산큰고래"
 }
 
 blue_team = {
-    "rkdalstnld": "주드", "gtw0308": "황정민", "star124": "하밍",
-    "villlo": "왜냐니", "toocat030": "또오냥", "xpdpfv2": "이지수",
-    "rjsdnr115": "고채린", "yotsubakoe": "코에", "etwo22": "이투", "o0opha": "서라0"
+    "bach023" : "울산큰고래",
+    "kimmaren77" : "김마렌",
+    "gatgdf" : "쏭이",
+    "xpdpfv2" : "이지수"
 }
 
 # [추가] 진행팀(매니저) 리스트
 manager_team = {
-    "melodingding": "멜로딩딩"
+    "pubgbjmatch": "멸망전"
 }
 
 def check_member_live(bj_id, bj_name):
