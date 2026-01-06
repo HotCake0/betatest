@@ -22,7 +22,11 @@
     {
         "id": "toocat030",
         "name": "또오냥",
-        "is_live": false
+        "is_live": true,
+        "title": "1단 눈을 떠",
+        "viewers": 39,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290533622",
+        "live_url": "https://play.sooplive.co.kr/toocat030/290533622"
     },
     {
         "id": "xpdpfv2",
