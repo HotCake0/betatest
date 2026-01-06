@@ -10,8 +10,7 @@ red_team = {
     "indian6402" : "후",
     "chloesy" : "우서",
     "whiteone325" : "난워니",
-    "minguri1016" : "배민정",
-    "bach023" : "울산큰고래"
+    "minguri1016" : "배민정"
 }
 
 blue_team = {
