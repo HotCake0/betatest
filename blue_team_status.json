@@ -9,25 +9,21 @@
         "name": "김마렌",
         "is_live": true,
         "title": "💙[고래상사]나머지 공부 쪼꼼하기🐸",
-        "viewers": 34,
+        "viewers": 18,
         "thumbnail": "https://liveimg.afreecatv.com/m/290536052",
         "live_url": "https://play.sooplive.co.kr/kimmaren77/290536052"
     },
     {
         "id": "gatgdf",
         "name": "쏭이",
-        "is_live": true,
-        "title": "[고래상사] 멸망전연습",
-        "viewers": 42,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290537588",
-        "live_url": "https://play.sooplive.co.kr/gatgdf/290537588"
+        "is_live": false
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 2부 오아랜드 스타로드먼지수민혁",
-        "viewers": 22,
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290535792",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290535792"
     }

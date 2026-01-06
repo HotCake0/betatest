@@ -17,11 +17,7 @@
     {
         "id": "indian6402",
         "name": "후",
-        "is_live": true,
-        "title": "3파전 킬내기 아칸팀vs성장팀vs프로팀",
-        "viewers": 13,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290537954",
-        "live_url": "https://play.sooplive.co.kr/indian6402/290537954"
+        "is_live": false
     },
     {
         "id": "chloesy",
