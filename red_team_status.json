@@ -9,14 +9,18 @@
         "name": "여백이다",
         "is_live": true,
         "title": "바카) 10일만에 검성 3.4... 오늘 검성의 운명은",
-        "viewers": 12,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290527988",
         "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290527988"
     },
     {
         "id": "niniming",
         "name": "니니밍",
-        "is_live": false
+        "is_live": true,
+        "title": "[지력] 보고시퍼썽~~⭐룰렛33/330",
+        "viewers": 29,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290535782",
+        "live_url": "https://play.sooplive.co.kr/niniming/290535782"
     },
     {
         "id": "doki0818",
