@@ -1,7 +1,11 @@
 [
     {
-        "id": "melodingding",
-        "name": "멜로딩딩",
-        "is_live": false
+        "id": "pubgbjmatch",
+        "name": "멸망전",
+        "is_live": true,
+        "title": "2026 배틀그라운드 멸망전 Winter Survival Day 3",
+        "viewers": 63872,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290538190",
+        "live_url": "https://play.sooplive.co.kr/pubgbjmatch/290538190"
     }
 ]

@@ -1,72 +1,38 @@
 [
     {
-        "id": "rkdalstnld",
-        "name": "주드",
+        "id": "bach023",
+        "name": "울산큰고래",
         "is_live": true,
-        "title": "주드X아칸X준옹X쿠욍/써기X보라X달묘X치쿠 멸망전 DAY3",
-        "viewers": 27,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290536176",
-        "live_url": "https://play.sooplive.co.kr/rkdalstnld/290536176"
+        "title": "[고래상사] 배그 멸망전 3일차 w난워니 배민정 우서",
+        "viewers": 411,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290535128",
+        "live_url": "https://play.sooplive.co.kr/bach023/290535128"
     },
     {
-        "id": "gtw0308",
-        "name": "황정민",
-        "is_live": false
-    },
-    {
-        "id": "star124",
-        "name": "하밍",
-        "is_live": false
-    },
-    {
-        "id": "villlo",
-        "name": "왜냐니",
-        "is_live": false
-    },
-    {
-        "id": "toocat030",
-        "name": "또오냥",
+        "id": "kimmaren77",
+        "name": "김마렌",
         "is_live": true,
-        "title": "[온양선녀]빙밍님이 왜 여기..?!",
-        "viewers": 148,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290533622",
-        "live_url": "https://play.sooplive.co.kr/toocat030/290533622"
+        "title": "💙[고래상사]멸망전 3일차!! 렛츠고!!🐸",
+        "viewers": 35,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290536052",
+        "live_url": "https://play.sooplive.co.kr/kimmaren77/290536052"
+    },
+    {
+        "id": "gatgdf",
+        "name": "쏭이",
+        "is_live": true,
+        "title": "[고래상사] 킴성태팀 멸망전 대기",
+        "viewers": 88,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290537588",
+        "live_url": "https://play.sooplive.co.kr/gatgdf/290537588"
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 멸망전 3일차 1등 두가좌!! 할수이따!",
-        "viewers": 38,
+        "viewers": 40,
         "thumbnail": "https://liveimg.afreecatv.com/m/290535792",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290535792"
-    },
-    {
-        "id": "rjsdnr115",
-        "name": "고채린",
-        "is_live": false
-    },
-    {
-        "id": "yotsubakoe",
-        "name": "코에",
-        "is_live": false
-    },
-    {
-        "id": "etwo22",
-        "name": "이투",
-        "is_live": true,
-        "title": "👻아 지창햄버거",
-        "viewers": 28,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290537646",
-        "live_url": "https://play.sooplive.co.kr/etwo22/290537646"
-    },
-    {
-        "id": "o0opha",
-        "name": "서라0",
-        "is_live": true,
-        "title": "[습팸] 8시까지 종겜 핀볼 받습니다 한구에 10개",
-        "viewers": 48,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290536402",
-        "live_url": "https://play.sooplive.co.kr/o0opha/290536402"
     }
 ]

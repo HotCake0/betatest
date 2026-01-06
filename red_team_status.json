@@ -1,68 +1,74 @@
 [
     {
-        "id": "joyjo2",
-        "name": "쪼이",
+        "id": "apaceh2401",
+        "name": "디엘",
         "is_live": true,
-        "title": "쪼이 멸망전 DAY3",
-        "viewers": 121,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290536098",
-        "live_url": "https://play.sooplive.co.kr/joyjo2/290536098"
+        "title": "디엘 멸망전 DAY 3",
+        "viewers": 64,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290537878",
+        "live_url": "https://play.sooplive.co.kr/apaceh2401/290537878"
     },
     {
-        "id": "wkdghdtjr99",
-        "name": "여백이다",
+        "id": "opix",
+        "name": "태양권",
         "is_live": true,
-        "title": "바카) 10일만에 검성 3.4... 오늘 검성의 운명은",
-        "viewers": 18,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290527988",
-        "live_url": "https://play.sooplive.co.kr/wkdghdtjr99/290527988"
+        "title": "멸망전 3일차",
+        "viewers": 29,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290538508",
+        "live_url": "https://play.sooplive.co.kr/opix/290538508"
     },
     {
-        "id": "niniming",
-        "name": "니니밍",
+        "id": "qw0949",
+        "name": "조혜원",
         "is_live": true,
-        "title": "[지력] 멸망전DAY3 수수련팀ㄱㄱ!w유혜미,김옥독,쏭아야⭐룰렛33/330",
-        "viewers": 54,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290535782",
-        "live_url": "https://play.sooplive.co.kr/niniming/290535782"
+        "title": "조혜원 배그 멸망전 DAY3 디엘 양권 후 + 워니 우서 민정 울큰고 잘해야되는날",
+        "viewers": 31,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290538004",
+        "live_url": "https://play.sooplive.co.kr/qw0949/290538004"
     },
     {
-        "id": "doki0818",
-        "name": "감자가비",
-        "is_live": false
-    },
-    {
-        "id": "khj011219",
-        "name": "기찬하",
-        "is_live": false
-    },
-    {
-        "id": "015234",
-        "name": "아눙",
-        "is_live": false
-    },
-    {
-        "id": "isq1158",
-        "name": "구월이",
-        "is_live": false
-    },
-    {
-        "id": "eun0333",
-        "name": "우미",
-        "is_live": false
-    },
-    {
-        "id": "jjoasseo13",
-        "name": "죠아써",
+        "id": "indian6402",
+        "name": "후",
         "is_live": true,
-        "title": "[홍신소] 후하 너무 떨린다 o(≧▽≦)o 그런김에 신의상도 보여주기",
+        "title": "PUBG멸망전 DAY3 디엘 양권 혜원 후 / 워니 우서 민정 울큰고",
+        "viewers": 8,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290537954",
+        "live_url": "https://play.sooplive.co.kr/indian6402/290537954"
+    },
+    {
+        "id": "chloesy",
+        "name": "우서",
+        "is_live": true,
+        "title": "멸망전 저티어 연습 잘쉬었다앙",
         "viewers": 17,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290536576",
-        "live_url": "https://play.sooplive.co.kr/jjoasseo13/290536576"
+        "thumbnail": "https://liveimg.afreecatv.com/m/290534976",
+        "live_url": "https://play.sooplive.co.kr/chloesy/290534976"
     },
     {
-        "id": "kayooo",
-        "name": "용아리",
-        "is_live": false
+        "id": "whiteone325",
+        "name": "난워니",
+        "is_live": true,
+        "title": "멸망전 3일차 w.후팀💛꾸한성",
+        "viewers": 66,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290535166",
+        "live_url": "https://play.sooplive.co.kr/whiteone325/290535166"
+    },
+    {
+        "id": "minguri1016",
+        "name": "배민정",
+        "is_live": true,
+        "title": "260106💛멸망전DAY3 디엘x양권x혜원x후x워니x우서x민정x울큰고 가부쟈공",
+        "viewers": 21,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290532028",
+        "live_url": "https://play.sooplive.co.kr/minguri1016/290532028"
+    },
+    {
+        "id": "bach023",
+        "name": "울산큰고래",
+        "is_live": true,
+        "title": "[고래상사] 배그 멸망전 3일차 w난워니 배민정 우서",
+        "viewers": 411,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290535128",
+        "live_url": "https://play.sooplive.co.kr/bach023/290535128"
     }
 ]
