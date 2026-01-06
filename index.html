@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>깃발전쟁 멀티뷰</title>
+    <title> 배그 멸망전 멀티뷰</title>
     <style>
         :root {
             --bg-dark: #0f0f0f;
@@ -153,9 +153,9 @@
             </div>
             <div class="team-filter">
                 <button class="filter-btn active" data-team="all" onclick="setFilter('all')">전체</button>
-                <button class="filter-btn" data-team="red" onclick="setFilter('red')">레드팀</button>
-                <button class="filter-btn" data-team="blue" onclick="setFilter('blue')">블루팀</button>
-                <button class="filter-btn" data-team="manager" onclick="setFilter('manager')">진행팀</button>
+                <button class="filter-btn" data-team="red" onclick="setFilter('red')"> 후팀 </button>
+                <button class="filter-btn" data-team="blue" onclick="setFilter('blue')"> 고래상사 </button>
+                <button class="filter-btn" data-team="manager" onclick="setFilter('manager')"> 멸망전 </button>
             </div>
         </div>
         <div id="member-list"></div>
@@ -163,21 +163,25 @@
 
     <div id="view-grid" class="grid-1">
         <div class="empty-msg">
-            <h2>깃발전쟁 멀티뷰</h2>
+            <h2>배그 멸망전 멀티뷰</h2>
             <p>방송 중인 멤버를 선택해 주세요. (최대 4명)</p>
         </div>
     </div>
 
     <script>
         const MEMBER_NAMES = {
-            "joyjo2": "쪼이", "wkdghdtjr99": "여백이다", "niniming": "니니밍",
-            "doki0818": "감자가비", "khj011219": "기찬하", "015234": "아눙",
-            "isq1158": "구월이", "eun0333": "우미", "jjoasseo13": "죠아써",
-            "kayooo": "용아리", "rkdalstnld": "주드", "gtw0308": "황정민",
-            "star124": "하밍", "villlo": "왜냐니", "toocat030": "또오냥",
-            "xpdpfv2": "이지수", "rjsdnr115": "고채린", "yotsubakoe": "코에",
-            "etwo22": "이투", "o0opha": "서라0",
-            "melodingding": "멜로딩딩" // 진행팀 추가
+                "apaceh2401": "디엘",
+    "opix" : "태양권",
+    "qw0949" : "조혜원",
+    "indian6402" : "후",
+    "chloesy" : "우서",
+    "whiteone325" : "난워니",
+    "minguri1016" : "배민정",
+    "bach023" : "울산큰고래",
+    "kimmaren77" : "김마렌",
+    "gatgdf" : "쏭이",
+    "xpdpfv2" : "이지수",
+    "pubgbjmatch": "멸망전" // 진행팀 추가
         };
 
         let selectedMembers = new Set();
