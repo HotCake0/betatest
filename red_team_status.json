@@ -22,11 +22,7 @@
     {
         "id": "chloesy",
         "name": "우서",
-        "is_live": true,
-        "title": "아이온2 나니아 치유성 3000 :)",
-        "viewers": 18,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290534976",
-        "live_url": "https://play.sooplive.co.kr/chloesy/290534976"
+        "is_live": false
     },
     {
         "id": "whiteone325",
