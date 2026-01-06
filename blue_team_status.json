@@ -17,10 +17,6 @@
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": true,
-        "title": "[고래상사] 2부 오아랜드 스타로드먼지수민혁",
-        "viewers": 21,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290535792",
-        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290535792"
+        "is_live": false
     }
 ]
