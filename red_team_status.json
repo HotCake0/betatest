@@ -4,7 +4,7 @@
         "name": "디엘",
         "is_live": true,
         "title": "디엘 vs 헤더 4ㄷ4 킬내기",
-        "viewers": 159,
+        "viewers": 150,
         "thumbnail": "https://liveimg.afreecatv.com/m/290537878",
         "live_url": "https://play.sooplive.co.kr/apaceh2401/290537878"
     },
@@ -18,7 +18,7 @@
         "name": "조혜원",
         "is_live": true,
         "title": "조혜원 아칸 후 로리 vs 프로팀 vs 성장팀 3파전 킬내깅",
-        "viewers": 28,
+        "viewers": 25,
         "thumbnail": "https://liveimg.afreecatv.com/m/290538004",
         "live_url": "https://play.sooplive.co.kr/qw0949/290538004"
     },
@@ -27,7 +27,7 @@
         "name": "후",
         "is_live": true,
         "title": "3파전 킬내기 아칸팀vs성장팀vs프로팀",
-        "viewers": 8,
+        "viewers": 9,
         "thumbnail": "https://liveimg.afreecatv.com/m/290537954",
         "live_url": "https://play.sooplive.co.kr/indian6402/290537954"
     },
@@ -36,25 +36,21 @@
         "name": "우서",
         "is_live": true,
         "title": "아이온2 나니아 치유성 3000 :)",
-        "viewers": 16,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290534976",
         "live_url": "https://play.sooplive.co.kr/chloesy/290534976"
     },
     {
         "id": "whiteone325",
         "name": "난워니",
-        "is_live": true,
-        "title": "후후후후나너니!💛꾸한성",
-        "viewers": 54,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290535166",
-        "live_url": "https://play.sooplive.co.kr/whiteone325/290535166"
+        "is_live": false
     },
     {
         "id": "minguri1016",
         "name": "배민정",
         "is_live": true,
         "title": "260106💛 후열 노래애애애ㅐㅇ뱅",
-        "viewers": 16,
+        "viewers": 18,
         "thumbnail": "https://liveimg.afreecatv.com/m/290532028",
         "live_url": "https://play.sooplive.co.kr/minguri1016/290532028"
     }
