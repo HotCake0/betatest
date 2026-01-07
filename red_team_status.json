@@ -27,11 +27,19 @@
     {
         "id": "whiteone325",
         "name": "난워니",
-        "is_live": false
+        "is_live": true,
+        "title": "연습전에 업데이트 보러가기💛꾸한성",
+        "viewers": 44,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290561150",
+        "live_url": "https://play.sooplive.co.kr/whiteone325/290561150"
     },
     {
         "id": "minguri1016",
         "name": "배민정",
-        "is_live": false
+        "is_live": true,
+        "title": "260107💛 멸망전 오늘이 마지막 ! 디엘x양권x혜원x후x워니x우서x민정x울큰고",
+        "viewers": 8,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290561876",
+        "live_url": "https://play.sooplive.co.kr/minguri1016/290561876"
     }
 ]
