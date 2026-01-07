@@ -4,25 +4,21 @@
         "name": "디엘",
         "is_live": true,
         "title": "디엘 멸망전 DAY 4",
-        "viewers": 72,
+        "viewers": 59,
         "thumbnail": "https://liveimg.afreecatv.com/m/290569328",
         "live_url": "https://play.sooplive.co.kr/apaceh2401/290569328"
     },
     {
         "id": "opix",
         "name": "태양권",
-        "is_live": true,
-        "title": "멸망전 막날",
-        "viewers": 32,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290567476",
-        "live_url": "https://play.sooplive.co.kr/opix/290567476"
+        "is_live": false
     },
     {
         "id": "qw0949",
         "name": "조혜원",
         "is_live": true,
-        "title": "조혜원 배그 멸망전 DAY4 디엘 양권 후 + 워니 우서 민정 울큰고 마지막날!!!",
-        "viewers": 40,
+        "title": "조혜원 힝구",
+        "viewers": 43,
         "thumbnail": "https://liveimg.afreecatv.com/m/290564646",
         "live_url": "https://play.sooplive.co.kr/qw0949/290564646"
     },
@@ -31,7 +27,7 @@
         "name": "후",
         "is_live": true,
         "title": "배그 멸망전 대망의 마지막날 디엘 양권 혜원 후 / 워니 우서 민정 울큰고",
-        "viewers": 7,
+        "viewers": 8,
         "thumbnail": "https://liveimg.afreecatv.com/m/290567218",
         "live_url": "https://play.sooplive.co.kr/indian6402/290567218"
     },
@@ -39,8 +35,8 @@
         "id": "chloesy",
         "name": "우서",
         "is_live": true,
-        "title": "멸망전 고티어 구경하고 갈게요 컴터가 망가짐 ..에혀",
-        "viewers": 13,
+        "title": "아이온출발~ 캠망가짐이슈 노캠",
+        "viewers": 11,
         "thumbnail": "https://liveimg.afreecatv.com/m/290574076",
         "live_url": "https://play.sooplive.co.kr/chloesy/290574076"
     },
@@ -49,7 +45,7 @@
         "name": "난워니",
         "is_live": true,
         "title": "멸망전 마지막날 w.후팀 💛꾸한성",
-        "viewers": 94,
+        "viewers": 80,
         "thumbnail": "https://liveimg.afreecatv.com/m/290561150",
         "live_url": "https://play.sooplive.co.kr/whiteone325/290561150"
     },
@@ -57,8 +53,8 @@
         "id": "minguri1016",
         "name": "배민정",
         "is_live": true,
-        "title": "260107💛 멸망전 우리고티어 화이팅! 디엘x양권x혜원x후x워니x우서x민정x울큰고",
-        "viewers": 22,
+        "title": "260107💛 재미있었다 멸망전 이제 보내준다.",
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290561876",
         "live_url": "https://play.sooplive.co.kr/minguri1016/290561876"
     }
