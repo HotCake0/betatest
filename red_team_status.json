@@ -17,29 +17,21 @@
     {
         "id": "indian6402",
         "name": "후",
-        "is_live": true,
-        "title": "멸망전 후열 공장 펀딩있을까여?",
-        "viewers": 9,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290567218",
-        "live_url": "https://play.sooplive.co.kr/indian6402/290567218"
+        "is_live": false
     },
     {
         "id": "chloesy",
         "name": "우서",
         "is_live": true,
         "title": "아이온출발~ 캠망가짐이슈 노캠",
-        "viewers": 21,
+        "viewers": 17,
         "thumbnail": "https://liveimg.afreecatv.com/m/290574076",
         "live_url": "https://play.sooplive.co.kr/chloesy/290574076"
     },
     {
         "id": "whiteone325",
         "name": "난워니",
-        "is_live": true,
-        "title": "후열워니💛꾸한성",
-        "viewers": 48,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290561150",
-        "live_url": "https://play.sooplive.co.kr/whiteone325/290561150"
+        "is_live": false
     },
     {
         "id": "minguri1016",

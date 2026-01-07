@@ -4,7 +4,7 @@
         "name": "울산큰고래",
         "is_live": true,
         "title": "[고래상사] 오늘 고래상사 기강잡겠습니다. 울검 울검!",
-        "viewers": 499,
+        "viewers": 473,
         "thumbnail": "https://liveimg.afreecatv.com/m/290561980",
         "live_url": "https://play.sooplive.co.kr/bach023/290561980"
     },
@@ -13,25 +13,21 @@
         "name": "김마렌",
         "is_live": true,
         "title": "💙[고래상사]※오늘은 올챙구랑 작업할거야※🐸",
-        "viewers": 35,
+        "viewers": 37,
         "thumbnail": "https://liveimg.afreecatv.com/m/290560612",
         "live_url": "https://play.sooplive.co.kr/kimmaren77/290560612"
     },
     {
         "id": "gatgdf",
         "name": "쏭이",
-        "is_live": true,
-        "title": "[고래상사] 고래상사 소통 ㅎ_ㅎ",
-        "viewers": 30,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290562988",
-        "live_url": "https://play.sooplive.co.kr/gatgdf/290562988"
+        "is_live": false
     },
     {
         "id": "xpdpfv2",
         "name": "이지수",
         "is_live": true,
-        "title": "[고래상사] 후열",
-        "viewers": 22,
+        "title": "[고래상사] 후열 토크토크",
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290561824",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290561824"
     }
