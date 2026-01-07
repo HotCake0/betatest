@@ -2,7 +2,11 @@
     {
         "id": "apaceh2401",
         "name": "디엘",
-        "is_live": false
+        "is_live": true,
+        "title": "디엘 멸망전 DAY 4",
+        "viewers": 32,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290564332",
+        "live_url": "https://play.sooplive.co.kr/apaceh2401/290564332"
     },
     {
         "id": "opix",
@@ -24,7 +28,7 @@
         "name": "우서",
         "is_live": true,
         "title": "아 카메라가 안돼 -_-",
-        "viewers": 7,
+        "viewers": 8,
         "thumbnail": "https://liveimg.afreecatv.com/m/290563564",
         "live_url": "https://play.sooplive.co.kr/chloesy/290563564"
     },
@@ -32,8 +36,8 @@
         "id": "whiteone325",
         "name": "난워니",
         "is_live": true,
-        "title": "멸망전 마지막날 : )💛꾸한성",
-        "viewers": 54,
+        "title": "멸망전 마지막날 w.후팀 💛꾸한성",
+        "viewers": 59,
         "thumbnail": "https://liveimg.afreecatv.com/m/290561150",
         "live_url": "https://play.sooplive.co.kr/whiteone325/290561150"
     },
@@ -42,7 +46,7 @@
         "name": "배민정",
         "is_live": true,
         "title": "260107💛 멸망전 오늘이 마지막 ! 디엘x양권x혜원x후x워니x우서x민정x울큰고",
-        "viewers": 16,
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290561876",
         "live_url": "https://play.sooplive.co.kr/minguri1016/290561876"
     }
