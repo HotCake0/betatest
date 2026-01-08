@@ -9,7 +9,7 @@
         "name": "김마렌",
         "is_live": true,
         "title": "💙[고래상사]레전드노곤함레전드따끈따끈개구리🐸",
-        "viewers": 34,
+        "viewers": 35,
         "thumbnail": "https://liveimg.afreecatv.com/m/290595714",
         "live_url": "https://play.sooplive.co.kr/kimmaren77/290595714"
     },
@@ -21,6 +21,10 @@
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 좋은 저녁입니다:)",
+        "viewers": 12,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290598140",
+        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290598140"
     }
 ]
