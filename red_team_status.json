@@ -17,16 +17,16 @@
     {
         "id": "indian6402",
         "name": "후",
-        "is_live": false
+        "is_live": true,
+        "title": "[아스펠] 일찍왔슴다!!",
+        "viewers": 6,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290587270",
+        "live_url": "https://play.sooplive.co.kr/indian6402/290587270"
     },
     {
         "id": "chloesy",
         "name": "우서",
-        "is_live": true,
-        "title": "아이온출발~ 캠망가짐이슈 노캠 / 루드라 가실분들 모집",
-        "viewers": 17,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290574076",
-        "live_url": "https://play.sooplive.co.kr/chloesy/290574076"
+        "is_live": false
     },
     {
         "id": "whiteone325",
