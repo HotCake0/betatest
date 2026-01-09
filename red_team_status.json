@@ -22,7 +22,11 @@
     {
         "id": "chloesy",
         "name": "우서",
-        "is_live": false
+        "is_live": true,
+        "title": "왓태식이 돌아왔다~",
+        "viewers": 11,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290612580",
+        "live_url": "https://play.sooplive.co.kr/chloesy/290612580"
     },
     {
         "id": "whiteone325",
