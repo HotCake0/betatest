@@ -24,14 +24,18 @@
         "name": "우서",
         "is_live": true,
         "title": "다들 아이온 켜 모해 출동",
-        "viewers": 20,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290612580",
         "live_url": "https://play.sooplive.co.kr/chloesy/290612580"
     },
     {
         "id": "whiteone325",
         "name": "난워니",
-        "is_live": false
+        "is_live": true,
+        "title": "반갑워니💛꾸한성",
+        "viewers": 43,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290616060",
+        "live_url": "https://play.sooplive.co.kr/whiteone325/290616060"
     },
     {
         "id": "minguri1016",

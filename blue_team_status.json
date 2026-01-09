@@ -17,6 +17,10 @@
     {
         "id": "xpdpfv2",
         "name": "이지수",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 지수 안녕하십니까:)",
+        "viewers": 33,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290615964",
+        "live_url": "https://play.sooplive.co.kr/xpdpfv2/290615964"
     }
 ]
