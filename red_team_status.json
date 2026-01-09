@@ -7,27 +7,19 @@
     {
         "id": "opix",
         "name": "태양권",
-        "is_live": true,
-        "title": "ㅎㅇㅎㅇ",
-        "viewers": 26,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290624652",
-        "live_url": "https://play.sooplive.co.kr/opix/290624652"
+        "is_live": false
     },
     {
         "id": "qw0949",
         "name": "조혜원",
-        "is_live": true,
-        "title": "조혜원 2부 루시 민혁 이톨 공자앙 12파저어어언",
-        "viewers": 52,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290624092",
-        "live_url": "https://play.sooplive.co.kr/qw0949/290624092"
+        "is_live": false
     },
     {
         "id": "indian6402",
         "name": "후",
         "is_live": true,
         "title": "[아스펠] 마족궁성 진심부캐 호법키우기",
-        "viewers": 14,
+        "viewers": 18,
         "thumbnail": "https://liveimg.afreecatv.com/m/290623262",
         "live_url": "https://play.sooplive.co.kr/indian6402/290623262"
     },
@@ -41,7 +33,7 @@
         "name": "난워니",
         "is_live": true,
         "title": "증강칼바람 w. 꾸잔 따린 망구 설아💛꾸한성",
-        "viewers": 65,
+        "viewers": 57,
         "thumbnail": "https://liveimg.afreecatv.com/m/290616060",
         "live_url": "https://play.sooplive.co.kr/whiteone325/290616060"
     },
@@ -49,8 +41,8 @@
         "id": "minguri1016",
         "name": "배민정",
         "is_live": true,
-        "title": "260109💛 공장 토시x복희x선만x민정",
-        "viewers": 17,
+        "title": "260109💛 히 히",
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290628036",
         "live_url": "https://play.sooplive.co.kr/minguri1016/290628036"
     }
