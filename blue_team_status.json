@@ -7,7 +7,11 @@
     {
         "id": "kimmaren77",
         "name": "김마렌",
-        "is_live": false
+        "is_live": true,
+        "title": "💙[고래상사] 제목뭐하지고민하다가일단왔음🐸",
+        "viewers": 1,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290618742",
+        "live_url": "https://play.sooplive.co.kr/kimmaren77/290618742"
     },
     {
         "id": "gatgdf",
@@ -19,7 +23,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 사장님 카페에서 따땃한 커피한잔~",
-        "viewers": 73,
+        "viewers": 86,
         "thumbnail": "https://liveimg.afreecatv.com/m/290615964",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290615964"
     }
