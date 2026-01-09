@@ -9,7 +9,7 @@
         "name": "태양권",
         "is_live": true,
         "title": "ㅎㅇㅎㅇ",
-        "viewers": 31,
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290624652",
         "live_url": "https://play.sooplive.co.kr/opix/290624652"
     },
@@ -18,7 +18,7 @@
         "name": "조혜원",
         "is_live": true,
         "title": "조혜원 근원 환이 시로 공장 드가자아아앙 @_ @",
-        "viewers": 42,
+        "viewers": 45,
         "thumbnail": "https://liveimg.afreecatv.com/m/290624092",
         "live_url": "https://play.sooplive.co.kr/qw0949/290624092"
     },
@@ -36,7 +36,7 @@
         "name": "우서",
         "is_live": true,
         "title": "다들 아이온 켜 모해 출동",
-        "viewers": 27,
+        "viewers": 33,
         "thumbnail": "https://liveimg.afreecatv.com/m/290612580",
         "live_url": "https://play.sooplive.co.kr/chloesy/290612580"
     },
@@ -45,13 +45,17 @@
         "name": "난워니",
         "is_live": true,
         "title": "소리언니와 두리두리 두리두리!💛꾸한성",
-        "viewers": 48,
+        "viewers": 51,
         "thumbnail": "https://liveimg.afreecatv.com/m/290616060",
         "live_url": "https://play.sooplive.co.kr/whiteone325/290616060"
     },
     {
         "id": "minguri1016",
         "name": "배민정",
-        "is_live": false
+        "is_live": true,
+        "title": "260109💛 비방이에오 w.김준x세리아x비숑x민정",
+        "viewers": 8,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290628036",
+        "live_url": "https://play.sooplive.co.kr/minguri1016/290628036"
     }
 ]
