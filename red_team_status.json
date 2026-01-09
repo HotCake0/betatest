@@ -19,7 +19,7 @@
         "name": "후",
         "is_live": true,
         "title": "[아스펠] 마족궁성 진심부캐 호법키우기",
-        "viewers": 18,
+        "viewers": 20,
         "thumbnail": "https://liveimg.afreecatv.com/m/290623262",
         "live_url": "https://play.sooplive.co.kr/indian6402/290623262"
     },
@@ -33,17 +33,13 @@
         "name": "난워니",
         "is_live": true,
         "title": "증강칼바람 w. 꾸잔 따린 망구 설아💛꾸한성",
-        "viewers": 57,
+        "viewers": 46,
         "thumbnail": "https://liveimg.afreecatv.com/m/290616060",
         "live_url": "https://play.sooplive.co.kr/whiteone325/290616060"
     },
     {
         "id": "minguri1016",
         "name": "배민정",
-        "is_live": true,
-        "title": "260109💛 히 히",
-        "viewers": 16,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290628036",
-        "live_url": "https://play.sooplive.co.kr/minguri1016/290628036"
+        "is_live": false
     }
 ]
