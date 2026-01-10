@@ -3,8 +3,8 @@
         "id": "bach023",
         "name": "울산큰고래",
         "is_live": true,
-        "title": "[고래상사] 후열",
-        "viewers": 442,
+        "title": "[고래상사] Ai 구분하는 게임",
+        "viewers": 448,
         "thumbnail": "https://liveimg.afreecatv.com/m/290646962",
         "live_url": "https://play.sooplive.co.kr/bach023/290646962"
     },
@@ -18,18 +18,14 @@
         "name": "김마렌",
         "is_live": true,
         "title": "💙[고래상사] 힐링하긔🐸",
-        "viewers": 35,
+        "viewers": 37,
         "thumbnail": "https://liveimg.afreecatv.com/m/290647554",
         "live_url": "https://play.sooplive.co.kr/kimmaren77/290647554"
     },
     {
         "id": "gatgdf",
         "name": "쏭이",
-        "is_live": true,
-        "title": "[고래상사] 롤 롤롤 ~ㅎㅎw.고래상사",
-        "viewers": 39,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290649628",
-        "live_url": "https://play.sooplive.co.kr/gatgdf/290649628"
+        "is_live": false
     },
     {
         "id": "xpdpfv2",
