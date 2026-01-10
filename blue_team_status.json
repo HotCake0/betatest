@@ -1,40 +1,32 @@
 [
     {
-        "id": "e9dongsung",
-        "name": "추멘",
+        "id": "bach023",
+        "name": "울산큰고래",
         "is_live": false
     },
     {
-        "id": "eunchr",
-        "name": "은초롱",
+        "id": "gyeonjahee",
+        "name": "견자희",
         "is_live": false
     },
     {
-        "id": "phs6162",
-        "name": "찐랑",
+        "id": "kimmaren77",
+        "name": "김마렌",
         "is_live": false
     },
     {
-        "id": "imhanbily",
-        "name": "한비",
-        "is_live": true,
-        "title": "점심밥 친구 왔어 💙",
-        "viewers": 20,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290638570",
-        "live_url": "https://play.sooplive.co.kr/imhanbily/290638570"
+        "id": "gatgdf",
+        "name": "쏭이",
+        "is_live": false
     },
     {
-        "id": "cosmicaaarrr",
-        "name": "아르르",
-        "is_live": true,
-        "title": "💖 -ˋˏ`전포를 찾아서 (✿◡‿◡) ˎˊ- 💖 [그린캠프/롤동]",
-        "viewers": 28,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290620784",
-        "live_url": "https://play.sooplive.co.kr/cosmicaaarrr/290620784"
+        "id": "xpdpfv2",
+        "name": "이지수",
+        "is_live": false
     },
     {
-        "id": "angel000429",
-        "name": "베지",
+        "id": "doki0818",
+        "name": "감자가비",
         "is_live": false
     }
 ]

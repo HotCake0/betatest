@@ -1,36 +1,31 @@
 [
     {
-        "id": "jaeparkk",
-        "name": "박재박",
+        "id": "land4968",
+        "name": "야무지",
         "is_live": false
     },
     {
-        "id": "hhr001234",
-        "name": "어쩜냥이",
+        "id": "top6373",
+        "name": "란다",
         "is_live": false
     },
     {
-        "id": "leesoi34",
-        "name": "냥쏘",
-        "is_live": false
-    },
-    {
-        "id": "yeyo25",
-        "name": "예요예요",
-        "is_live": false
-    },
-    {
-        "id": "morgan427",
-        "name": "숙희",
+        "id": "koo2202",
+        "name": "구본좌",
         "is_live": true,
-        "title": "승리를 위하여 💚 [털즈란]",
-        "viewers": 26,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290638798",
-        "live_url": "https://play.sooplive.co.kr/morgan427/290638798"
+        "title": "[꾸한성]2부 꾸추밭 오늘도 꾸이루~",
+        "viewers": 30,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290638516",
+        "live_url": "https://play.sooplive.co.kr/koo2202/290638516"
     },
     {
-        "id": "nslah830",
-        "name": "피치",
+        "id": "not15987",
+        "name": "다뮤",
+        "is_live": false
+    },
+    {
+        "id": "sellkey",
+        "name": "셀키",
         "is_live": false
     }
 ]
