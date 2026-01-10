@@ -2,11 +2,7 @@
     {
         "id": "land4968",
         "name": "야무지",
-        "is_live": true,
-        "title": "후여루",
-        "viewers": 66,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290642176",
-        "live_url": "https://play.sooplive.co.kr/land4968/290642176"
+        "is_live": false
     },
     {
         "id": "top6373",
