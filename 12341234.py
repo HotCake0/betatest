@@ -29,7 +29,7 @@ green_team = {
     "sellkey" : "셀키"
 }
 
-green_team = {
+yellow_team = {
     "jaeparkk" : "박재박",
     "hhr001234" : "어쩜냥이",
     "leesoi34" : "냥쏘",
@@ -76,6 +76,6 @@ def save_team_status(team_dict, filename):
 if __name__ == '__main__':
     save_team_status(red_team, 'red_team_status.json')
     save_team_status(blue_team, 'blue_team_status.json')
-    save_team_status(blue_team, 'green_team_status.json')
-    save_team_status(blue_team, 'yellow_team_status.json')
+    save_team_status(green_team, 'green_team_status.json')
+    save_team_status(yellow_team, 'yellow_team_status.json')
     save_team_status(manager_team, 'manager_status.json')
