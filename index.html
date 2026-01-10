@@ -3,15 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> 배그 멸망전 멀티뷰</title>
+    <title> 땅콩컵 멀티뷰</title>
     <style>
         :root {
             --bg-dark: #0f0f0f;
             --card-bg: #1e1e1e;
-            --accent-green: #00ffa3;
+    
+            --accent-green: #00ffa3; /* 기존 형광 그린 */
             --accent-red: #ff4d4d;
             --accent-blue: #4d94ff;
-            --accent-purple: #a34dff; /* 진행팀 색상 추가 */
+            --accent-purple: #a34dff;
+            --accent-yellow: #ffd700; /* 쨍한 옐로우 (Gold/Yellow 계열) */
+            --accent-pure-green: #28a745; /* 조금 더 차분한 기본 그린 (필요 시 사용) */
+    
             --text-white: #ffffff;
             --text-gray: #aaaaaa;
         }
@@ -60,11 +64,13 @@
             transition: 0.2s;
         }
 
+        /* 기존 스타일 */
         .filter-btn.active[data-team="all"] { background: #444; color: white; border-color: #666; }
         .filter-btn.active[data-team="red"] { background: #4d1a1a; color: #ff9999; border-color: var(--accent-red); }
         .filter-btn.active[data-team="blue"] { background: #1a2a4d; color: #99c2ff; border-color: var(--accent-blue); }
-        /* 진행팀 활성 스타일 */
         .filter-btn.active[data-team="manager"] { background: #2d1a4d; color: #d199ff; border-color: var(--accent-purple); }
+        .filter-btn.active[data-team="green"] { background: #1a3320; color: #99ffb3; border-color: var(--accent-pure-green); }
+        .filter-btn.active[data-team="yellow"] { background: #332b00; color: #fff280; border-color: var(--accent-yellow); }
 
         .live-dot {
             width: 10px; height: 10px;
@@ -153,9 +159,11 @@
             </div>
             <div class="team-filter">
                 <button class="filter-btn active" data-team="all" onclick="setFilter('all')">전체</button>
-                <button class="filter-btn" data-team="red" onclick="setFilter('red')"> 후팀 </button>
-                <button class="filter-btn" data-team="blue" onclick="setFilter('blue')"> 고래상사 </button>
-                <button class="filter-btn" data-team="manager" onclick="setFilter('manager')"> 멸망전 </button>
+                <button class="filter-btn" data-team="red" onclick="setFilter('red')"> 고래상사 </button>
+                <button class="filter-btn" data-team="blue" onclick="setFilter('blue')"> 그린캠프 </button>
+                <button class="filter-btn" data-team="blue" onclick="setFilter('green')"> 꾸한성 </button>
+                <button class="filter-btn" data-team="blue" onclick="setFilter('yellow')"> 털즈란 </button>
+                <button class="filter-btn" data-team="manager" onclick="setFilter('manager')"> 해설 </button>
             </div>
         </div>
         <div id="member-list"></div>
@@ -163,25 +171,14 @@
 
     <div id="view-grid" class="grid-1">
         <div class="empty-msg">
-            <h2>배그 멸망전 멀티뷰</h2>
+            <h2>땅콩컵 멀티뷰</h2>
             <p>방송 중인 멤버를 선택해 주세요. (최대 4명)</p>
         </div>
     </div>
 
     <script>
         const MEMBER_NAMES = {
-                "apaceh2401": "디엘",
-    "opix" : "태양권",
-    "qw0949" : "조혜원",
-    "indian6402" : "후",
-    "chloesy" : "우서",
-    "whiteone325" : "난워니",
-    "minguri1016" : "배민정",
-    "bach023" : "울산큰고래",
-    "kimmaren77" : "김마렌",
-    "gatgdf" : "쏭이",
-    "xpdpfv2" : "이지수",
-    "pubgbjmatch": "멸망전" // 진행팀 추가
+            
         };
 
         let selectedMembers = new Set();
@@ -192,20 +189,26 @@
             try {
                 const ts = new Date().getTime();
                 // red, blue, manager 세 개의 데이터를 모두 가져옴
-                const [redRes, blueRes, managerRes] = await Promise.all([
+                const [redRes, blueRes, greenRes, yellowRes, managerRes] = await Promise.all([
                     fetch(`red_team_status.json?t=${ts}`),
                     fetch(`blue_team_status.json?t=${ts}`),
+                    fetch(`green_team_status.json?t=${ts}`),
+                    fetch(`yellow_team_status.json?t=${ts}`),
                     fetch(`manager_status.json?t=${ts}`)
                 ]);
                 
                 const redData = await redRes.json();
                 const blueData = await blueRes.json();
+                const blueData = await greenRes.json();
+                const blueData = await yellowRes.json();
                 const managerData = await managerRes.json();
 
                 // 각 팀 정보 태깅 후 병합
                 statusData = [
                     ...redData.map(m => ({...m, team: 'red'})),
                     ...blueData.map(m => ({...m, team: 'blue'})),
+                    ...greenData.map(m => ({...m, team: 'green'})),
+                    ...yellowData.map(m => ({...m, team: 'yellow'})),
                     ...managerData.map(m => ({...m, team: 'manager'}))
                 ];
                 
