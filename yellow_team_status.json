@@ -4,14 +4,18 @@
         "name": "야무지",
         "is_live": true,
         "title": "3시니까 일단 켜",
-        "viewers": 75,
+        "viewers": 78,
         "thumbnail": "https://liveimg.afreecatv.com/m/290642176",
         "live_url": "https://play.sooplive.co.kr/land4968/290642176"
     },
     {
         "id": "top6373",
         "name": "란다",
-        "is_live": false
+        "is_live": true,
+        "title": "[꾸한성] 4시란다",
+        "viewers": 2,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290643662",
+        "live_url": "https://play.sooplive.co.kr/top6373/290643662"
     },
     {
         "id": "koo2202",
