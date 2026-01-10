@@ -4,25 +4,42 @@ import os
 
 # 팀 리스트 정의
 red_team = {
-    "apaceh2401": "디엘",
-    "opix" : "태양권",
-    "qw0949" : "조혜원",
-    "indian6402" : "후",
-    "chloesy" : "우서",
-    "whiteone325" : "난워니",
-    "minguri1016" : "배민정"
+    "bach023" : "울산큰고래",
+    "gyeonjahee" : "견자희",
+    "kimmaren77" : "김마렌",
+    "gatgdf" : "쏭이",
+    "xpdpfv2" : "이지수",
+    "doki0818" : "감자가비"
 }
 
 blue_team = {
-    "bach023" : "울산큰고래",
-    "kimmaren77" : "김마렌",
-    "gatgdf" : "쏭이",
-    "xpdpfv2" : "이지수"
+    "e9dongsung" : "추멘",
+    "eunchr" : "은초롱",
+    "phs6162" : "찐랑",
+    "imhanbily" : "한비",
+    "cosmicaaarrr" : "아르르",
+    "angel000429" : "베지"
 }
 
-# [추가] 진행팀(매니저) 리스트
+green_team = {
+    "land4968" : "야무지",
+    "top6373" : "란다",
+    "koo2202" : "구본좌",
+    "not15987" : "다뮤",
+    "sellkey" : "셀키"
+}
+
+green_team = {
+    "jaeparkk" : "박재박",
+    "hhr001234" : "어쩜냥이",
+    "leesoi34" : "냥쏘",
+    "yeyo25" : "예요예요",
+    "morgan427" : "숙희",
+    "nslah830" : "피치"
+}
+
 manager_team = {
-    "pubgbjmatch": "멸망전"
+    "dmng50" : "빵땅콩"
 }
 
 def check_member_live(bj_id, bj_name):
@@ -59,5 +76,6 @@ def save_team_status(team_dict, filename):
 if __name__ == '__main__':
     save_team_status(red_team, 'red_team_status.json')
     save_team_status(blue_team, 'blue_team_status.json')
-    # [추가] 진행팀 파일 생성
+    save_team_status(blue_team, 'green_team_status.json')
+    save_team_status(blue_team, 'yellow_team_status.json')
     save_team_status(manager_team, 'manager_status.json')
