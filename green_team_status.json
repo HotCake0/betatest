@@ -12,11 +12,7 @@
     {
         "id": "phs6162",
         "name": "찐랑",
-        "is_live": true,
-        "title": "[그린캠프/롤동/뉴걸3일차] 찐이루 랑이루",
-        "viewers": 24,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290646480",
-        "live_url": "https://play.sooplive.co.kr/phs6162/290646480"
+        "is_live": false
     },
     {
         "id": "imhanbily",
