@@ -7,18 +7,14 @@
     {
         "id": "eunchr",
         "name": "은초롱",
-        "is_live": true,
-        "title": "[그린캠프] 곤피롱",
-        "viewers": 20,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290640300",
-        "live_url": "https://play.sooplive.co.kr/eunchr/290640300"
+        "is_live": false
     },
     {
         "id": "phs6162",
         "name": "찐랑",
         "is_live": true,
-        "title": "[그린캠프/롤동/뉴걸3일차] 종겜 ''컵헤드'' 분노 게이지 상승 중~^^",
-        "viewers": 17,
+        "title": "[그린캠프/롤동/뉴걸3일차] 롤동 내전 가즈아!",
+        "viewers": 21,
         "thumbnail": "https://liveimg.afreecatv.com/m/290646480",
         "live_url": "https://play.sooplive.co.kr/phs6162/290646480"
     },
@@ -26,8 +22,8 @@
         "id": "imhanbily",
         "name": "한비",
         "is_live": true,
-        "title": "야식 친구 한비 💙",
-        "viewers": 22,
+        "title": "10시 ) 롤동아리 뉴걸들과 내전합니다 💙",
+        "viewers": 23,
         "thumbnail": "https://liveimg.afreecatv.com/m/290638570",
         "live_url": "https://play.sooplive.co.kr/imhanbily/290638570"
     },
@@ -40,9 +36,9 @@
         "id": "angel000429",
         "name": "베지",
         "is_live": true,
-        "title": "앵겨;; · 두컷방셀500개 · [그린캠프/아잇템]",
-        "viewers": 15,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290644620",
-        "live_url": "https://play.sooplive.co.kr/angel000429/290644620"
+        "title": "베지의 2026 첫 풀트방송 · 두컷방셀500개 · [그린캠프/아잇템]",
+        "viewers": 5,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290655368",
+        "live_url": "https://play.sooplive.co.kr/angel000429/290655368"
     }
 ]
