@@ -4,7 +4,7 @@
         "name": "야무지",
         "is_live": true,
         "title": "꾸한성 GRX 승리당 200개 !?",
-        "viewers": 61,
+        "viewers": 57,
         "thumbnail": "https://liveimg.afreecatv.com/m/290642176",
         "live_url": "https://play.sooplive.co.kr/land4968/290642176"
     },
@@ -13,18 +13,14 @@
         "name": "란다",
         "is_live": true,
         "title": "[꾸한성] 붕폿 울어",
-        "viewers": 24,
+        "viewers": 26,
         "thumbnail": "https://liveimg.afreecatv.com/m/290643662",
         "live_url": "https://play.sooplive.co.kr/top6373/290643662"
     },
     {
         "id": "koo2202",
         "name": "구본좌",
-        "is_live": true,
-        "title": "[꾸한성]5부 GRX 스크림 롤대회 우승 렛스고",
-        "viewers": 15,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290638516",
-        "live_url": "https://play.sooplive.co.kr/koo2202/290638516"
+        "is_live": false
     },
     {
         "id": "not15987",
@@ -36,7 +32,7 @@
         "name": "셀키",
         "is_live": true,
         "title": "[꾸한성] 오늘도 연습 두가자",
-        "viewers": 12,
+        "viewers": 14,
         "thumbnail": "https://liveimg.afreecatv.com/m/290648228",
         "live_url": "https://play.sooplive.co.kr/sellkey/290648228"
     }
