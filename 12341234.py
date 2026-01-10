@@ -4,6 +4,10 @@ import os
 
 # 팀 리스트 정의
 red_team = {
+    "dmng50" : "빵땅콩"
+}
+
+blue_team = {
     "bach023" : "울산큰고래",
     "gyeonjahee" : "견자희",
     "kimmaren77" : "김마렌",
@@ -12,7 +16,7 @@ red_team = {
     "doki0818" : "감자가비"
 }
 
-blue_team = {
+green_team = {
     "e9dongsung" : "추멘",
     "eunchr" : "은초롱",
     "phs6162" : "찐랑",
@@ -21,7 +25,7 @@ blue_team = {
     "angel000429" : "베지"
 }
 
-green_team = {
+yellow_team = {
     "land4968" : "야무지",
     "top6373" : "란다",
     "koo2202" : "구본좌",
@@ -29,17 +33,13 @@ green_team = {
     "sellkey" : "셀키"
 }
 
-yellow_team = {
+purple_team = {
     "jaeparkk" : "박재박",
     "hhr001234" : "어쩜냥이",
     "leesoi34" : "냥쏘",
     "yeyo25" : "예요예요",
     "morgan427" : "숙희",
     "nslah830" : "피치"
-}
-
-manager_team = {
-    "dmng50" : "빵땅콩"
 }
 
 def check_member_live(bj_id, bj_name):
@@ -78,4 +78,4 @@ if __name__ == '__main__':
     save_team_status(blue_team, 'blue_team_status.json')
     save_team_status(green_team, 'green_team_status.json')
     save_team_status(yellow_team, 'yellow_team_status.json')
-    save_team_status(manager_team, 'manager_status.json')
+    save_team_status(purple_team, 'purple_team_status.json')
