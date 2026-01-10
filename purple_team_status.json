@@ -2,7 +2,11 @@
     {
         "id": "jaeparkk",
         "name": "박재박",
-        "is_live": false
+        "is_live": true,
+        "title": "오늘 야구 꼭이기겠습니다.... 감컴퍼니",
+        "viewers": 87,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290640902",
+        "live_url": "https://play.sooplive.co.kr/jaeparkk/290640902"
     },
     {
         "id": "hhr001234",
@@ -17,14 +21,18 @@
     {
         "id": "yeyo25",
         "name": "예요예요",
-        "is_live": false
+        "is_live": true,
+        "title": "야구대회 이겨보자!!!!! 🌻33/330연차[털즈란]",
+        "viewers": 7,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290640678",
+        "live_url": "https://play.sooplive.co.kr/yeyo25/290640678"
     },
     {
         "id": "morgan427",
         "name": "숙희",
         "is_live": true,
         "title": "승리를 위하여 💚 [털즈란]",
-        "viewers": 24,
+        "viewers": 16,
         "thumbnail": "https://liveimg.afreecatv.com/m/290638798",
         "live_url": "https://play.sooplive.co.kr/morgan427/290638798"
     },
@@ -33,7 +41,7 @@
         "name": "피치",
         "is_live": true,
         "title": "5시 털즈란 vs 천타버스 야구 당일",
-        "viewers": 24,
+        "viewers": 31,
         "thumbnail": "https://liveimg.afreecatv.com/m/290640394",
         "live_url": "https://play.sooplive.co.kr/nslah830/290640394"
     }
