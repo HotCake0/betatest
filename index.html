@@ -211,13 +211,12 @@
         async function fetchStatus() {
             try {
                 const ts = new Date().getTime();
-                // red, blue, manager 세 개의 데이터를 모두 가져옴
                 const [redRes, blueRes, greenRes, yellowRes, purpleRes] = await Promise.all([
                     fetch(`red_team_status.json?t=${ts}`),
                     fetch(`blue_team_status.json?t=${ts}`),
                     fetch(`green_team_status.json?t=${ts}`),
                     fetch(`yellow_team_status.json?t=${ts}`),
-                    fetch(`purple_status.json?t=${ts}`)
+                    fetch(`purple_team_status.json?t=${ts}`)
                 ]);
                 
                 const redData = await redRes.json();
