@@ -2,6 +2,10 @@
     {
         "id": "dmng50",
         "name": "빵땅콩",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 안녕하심까",
+        "viewers": 32,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290642134",
+        "live_url": "https://play.sooplive.co.kr/dmng50/290642134"
     }
 ]
