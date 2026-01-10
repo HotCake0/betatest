@@ -2,11 +2,7 @@
     {
         "id": "jaeparkk",
         "name": "박재박",
-        "is_live": true,
-        "title": "뿌드컵 갑니다... 감컴퍼니",
-        "viewers": 72,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290640902",
-        "live_url": "https://play.sooplive.co.kr/jaeparkk/290640902"
+        "is_live": false
     },
     {
         "id": "hhr001234",
@@ -17,8 +13,8 @@
         "id": "leesoi34",
         "name": "냥쏘",
         "is_live": true,
-        "title": "[털즈란] 내 방송에 너 업서🐱33/330",
-        "viewers": 39,
+        "title": "[털즈란/롤] 원딜 연습 맛만 보쟈보쟈🐱33/330",
+        "viewers": 40,
         "thumbnail": "https://liveimg.afreecatv.com/m/290649502",
         "live_url": "https://play.sooplive.co.kr/leesoi34/290649502"
     },
