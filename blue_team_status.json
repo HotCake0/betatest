@@ -2,7 +2,11 @@
     {
         "id": "bach023",
         "name": "울산큰고래",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 오랜만입니다. 오늘 좀 뜨거울 수 있습니다",
+        "viewers": 274,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290646962",
+        "live_url": "https://play.sooplive.co.kr/bach023/290646962"
     },
     {
         "id": "gyeonjahee",
