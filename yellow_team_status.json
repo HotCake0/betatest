@@ -7,11 +7,7 @@
     {
         "id": "top6373",
         "name": "란다",
-        "is_live": true,
-        "title": "[꾸한성] 퇴근지옥",
-        "viewers": 29,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290672658",
-        "live_url": "https://play.sooplive.co.kr/top6373/290672658"
+        "is_live": false
     },
     {
         "id": "koo2202",
@@ -21,11 +17,7 @@
     {
         "id": "not15987",
         "name": "다뮤",
-        "is_live": true,
-        "title": "[꾸한성] 후후 불면은 후열 :p 💙",
-        "viewers": 35,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290684846",
-        "live_url": "https://play.sooplive.co.kr/not15987/290684846"
+        "is_live": false
     },
     {
         "id": "sellkey",
