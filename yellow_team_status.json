@@ -22,6 +22,10 @@
     {
         "id": "sellkey",
         "name": "셀키",
-        "is_live": false
+        "is_live": true,
+        "title": "[꾸한성] 셀키왓따!",
+        "viewers": 9,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290669280",
+        "live_url": "https://play.sooplive.co.kr/sellkey/290669280"
     }
 ]
