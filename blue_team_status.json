@@ -2,7 +2,11 @@
     {
         "id": "bach023",
         "name": "울산큰고래",
-        "is_live": false
+        "is_live": true,
+        "title": "[고래상사] 나 꿈이 생겼어",
+        "viewers": 459,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290676272",
+        "live_url": "https://play.sooplive.co.kr/bach023/290676272"
     },
     {
         "id": "gyeonjahee",
@@ -14,7 +18,7 @@
         "name": "김마렌",
         "is_live": true,
         "title": "💙[고래상사] 레몬아메리카노 맛있습니다🐸",
-        "viewers": 25,
+        "viewers": 31,
         "thumbnail": "https://liveimg.afreecatv.com/m/290675398",
         "live_url": "https://play.sooplive.co.kr/kimmaren77/290675398"
     },
@@ -28,7 +32,7 @@
         "name": "이지수",
         "is_live": true,
         "title": "[고래상사] 에어컨 경매 쌀먹단 제발 도파민주세요",
-        "viewers": 32,
+        "viewers": 29,
         "thumbnail": "https://liveimg.afreecatv.com/m/290674458",
         "live_url": "https://play.sooplive.co.kr/xpdpfv2/290674458"
     },
@@ -37,7 +41,7 @@
         "name": "감자가비",
         "is_live": true,
         "title": "[고래상사]세기의 경매 시작합니다w.삐요코,밀크티냠",
-        "viewers": 323,
+        "viewers": 180,
         "thumbnail": "https://liveimg.afreecatv.com/m/290673840",
         "live_url": "https://play.sooplive.co.kr/doki0818/290673840"
     }

@@ -9,7 +9,7 @@
         "name": "어쩜냥이",
         "is_live": true,
         "title": "[털즈란] 롤 크루대전 연습 내가 여기서 냥디디.. 방셀 33/152",
-        "viewers": 11,
+        "viewers": 12,
         "thumbnail": "https://liveimg.afreecatv.com/m/290674328",
         "live_url": "https://play.sooplive.co.kr/hhr001234/290674328"
     },
@@ -21,14 +21,18 @@
     {
         "id": "yeyo25",
         "name": "예요예요",
-        "is_live": false
+        "is_live": true,
+        "title": "8시 지앤가든 멤버와 구구덕 🌻33/330연차[털즈란]",
+        "viewers": 18,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290676004",
+        "live_url": "https://play.sooplive.co.kr/yeyo25/290676004"
     },
     {
         "id": "morgan427",
         "name": "숙희",
         "is_live": true,
         "title": "롤 크루 대전 연습 ! 정글마스터가 될 수 있을까요? 💚 [털즈란]",
-        "viewers": 38,
+        "viewers": 36,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672648",
         "live_url": "https://play.sooplive.co.kr/morgan427/290672648"
     },

@@ -4,7 +4,7 @@
         "name": "야무지",
         "is_live": true,
         "title": "잘봤다 카라스노 이제 내차례",
-        "viewers": 60,
+        "viewers": 56,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669560",
         "live_url": "https://play.sooplive.co.kr/land4968/290669560"
     },
@@ -13,7 +13,7 @@
         "name": "란다",
         "is_live": true,
         "title": "[꾸한성] 6시 그린캠프와 스크림!",
-        "viewers": 43,
+        "viewers": 39,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672658",
         "live_url": "https://play.sooplive.co.kr/top6373/290672658"
     },
@@ -22,7 +22,7 @@
         "name": "구본좌",
         "is_live": true,
         "title": "[꾸한성] GRX 스크림 롤대회 연습 합니다 6시 스크림",
-        "viewers": 10,
+        "viewers": 12,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672150",
         "live_url": "https://play.sooplive.co.kr/koo2202/290672150"
     },
@@ -30,8 +30,8 @@
         "id": "not15987",
         "name": "다뮤",
         "is_live": true,
-        "title": "[꾸한성] 꾸한성 vs 그린캠프 스크림",
-        "viewers": 33,
+        "title": "[꾸한성] GRX vs 그린캠프 스크림",
+        "viewers": 34,
         "thumbnail": "https://liveimg.afreecatv.com/m/290673942",
         "live_url": "https://play.sooplive.co.kr/not15987/290673942"
     },
@@ -40,7 +40,7 @@
         "name": "셀키",
         "is_live": true,
         "title": "[꾸한성] GRX_정글 셀키",
-        "viewers": 19,
+        "viewers": 20,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669280",
         "live_url": "https://play.sooplive.co.kr/sellkey/290669280"
     }
