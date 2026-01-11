@@ -4,7 +4,7 @@
         "name": "추멘",
         "is_live": true,
         "title": "18시 꾸한성스크림 내일17시 크루대전 울큰고 팀하고 경기 [감컴]",
-        "viewers": 16,
+        "viewers": 35,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672314",
         "live_url": "https://play.sooplive.co.kr/e9dongsung/290672314"
     },
@@ -21,12 +21,20 @@
     {
         "id": "imhanbily",
         "name": "한비",
-        "is_live": false
+        "is_live": true,
+        "title": "덤벙 한비 방갑습니다 💙",
+        "viewers": 19,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290672756",
+        "live_url": "https://play.sooplive.co.kr/imhanbily/290672756"
     },
     {
         "id": "cosmicaaarrr",
         "name": "아르르",
-        "is_live": false
+        "is_live": true,
+        "title": "💖 -ˋˏ`안녕 좋은 오후 (✿◡‿◡) ˎˊ- 💖 [그린캠프/롤동]",
+        "viewers": 14,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290672772",
+        "live_url": "https://play.sooplive.co.kr/cosmicaaarrr/290672772"
     },
     {
         "id": "angel000429",

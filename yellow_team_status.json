@@ -3,22 +3,26 @@
         "id": "land4968",
         "name": "야무지",
         "is_live": true,
-        "title": "3시 30분 하이큐!! 컨셉트의 싸움 상영회",
-        "viewers": 65,
+        "title": "잘봤다 카라스노 이제 내차례 5시 40분까지 오겠습니다",
+        "viewers": 45,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669560",
         "live_url": "https://play.sooplive.co.kr/land4968/290669560"
     },
     {
         "id": "top6373",
         "name": "란다",
-        "is_live": false
+        "is_live": true,
+        "title": "[꾸한성] 5시란다",
+        "viewers": 39,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290672658",
+        "live_url": "https://play.sooplive.co.kr/top6373/290672658"
     },
     {
         "id": "koo2202",
         "name": "구본좌",
         "is_live": true,
-        "title": "[꾸한성] GRX 스크림 롤대회 연습 합니다",
-        "viewers": 11,
+        "title": "[꾸한성] GRX 스크림 롤대회 연습 합니다 6시 스크림",
+        "viewers": 9,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672150",
         "live_url": "https://play.sooplive.co.kr/koo2202/290672150"
     },
@@ -32,7 +36,7 @@
         "name": "셀키",
         "is_live": true,
         "title": "[꾸한성] 셀키왓따! 카페 털기",
-        "viewers": 23,
+        "viewers": 22,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669280",
         "live_url": "https://play.sooplive.co.kr/sellkey/290669280"
     }
