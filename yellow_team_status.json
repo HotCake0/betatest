@@ -2,7 +2,11 @@
     {
         "id": "land4968",
         "name": "야무지",
-        "is_live": false
+        "is_live": true,
+        "title": "3시 30분 하이큐!! 컨셉트의 싸움 상영회",
+        "viewers": 60,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290669560",
+        "live_url": "https://play.sooplive.co.kr/land4968/290669560"
     },
     {
         "id": "top6373",
@@ -23,8 +27,8 @@
         "id": "sellkey",
         "name": "셀키",
         "is_live": true,
-        "title": "[꾸한성] 셀키왓따!",
-        "viewers": 9,
+        "title": "[꾸한성] 셀키왓따! 카페 털기",
+        "viewers": 27,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669280",
         "live_url": "https://play.sooplive.co.kr/sellkey/290669280"
     }
