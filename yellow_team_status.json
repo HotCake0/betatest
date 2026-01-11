@@ -9,7 +9,7 @@
         "name": "란다",
         "is_live": true,
         "title": "[꾸한성] 퇴근지옥",
-        "viewers": 41,
+        "viewers": 37,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672658",
         "live_url": "https://play.sooplive.co.kr/top6373/290672658"
     },
@@ -30,10 +30,6 @@
     {
         "id": "sellkey",
         "name": "셀키",
-        "is_live": true,
-        "title": "[꾸한성] GRX_정글 셀키",
-        "viewers": 20,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290669280",
-        "live_url": "https://play.sooplive.co.kr/sellkey/290669280"
+        "is_live": false
     }
 ]
