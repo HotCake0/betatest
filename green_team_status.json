@@ -2,7 +2,11 @@
     {
         "id": "e9dongsung",
         "name": "추멘",
-        "is_live": false
+        "is_live": true,
+        "title": "18시 꾸한성스크림 내일17시 크루대전 울큰고 팀하고 경기 [감컴]",
+        "viewers": 16,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290672314",
+        "live_url": "https://play.sooplive.co.kr/e9dongsung/290672314"
     },
     {
         "id": "eunchr",
