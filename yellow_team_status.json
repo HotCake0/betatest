@@ -4,7 +4,7 @@
         "name": "야무지",
         "is_live": true,
         "title": "잘봤다 카라스노 이제 내차례",
-        "viewers": 45,
+        "viewers": 55,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669560",
         "live_url": "https://play.sooplive.co.kr/land4968/290669560"
     },
@@ -12,8 +12,8 @@
         "id": "top6373",
         "name": "란다",
         "is_live": true,
-        "title": "[꾸한성] 5시란다",
-        "viewers": 43,
+        "title": "[꾸한성] 6시 그린캠프와 스크림!",
+        "viewers": 38,
         "thumbnail": "https://liveimg.afreecatv.com/m/290672658",
         "live_url": "https://play.sooplive.co.kr/top6373/290672658"
     },
@@ -29,14 +29,18 @@
     {
         "id": "not15987",
         "name": "다뮤",
-        "is_live": false
+        "is_live": true,
+        "title": "[꾸한성] 꾸한성 vs 그린캠프 스크림",
+        "viewers": 14,
+        "thumbnail": "https://liveimg.afreecatv.com/m/290673942",
+        "live_url": "https://play.sooplive.co.kr/not15987/290673942"
     },
     {
         "id": "sellkey",
         "name": "셀키",
         "is_live": true,
         "title": "[꾸한성] 셀키왓따! 카페 털기",
-        "viewers": 23,
+        "viewers": 19,
         "thumbnail": "https://liveimg.afreecatv.com/m/290669280",
         "live_url": "https://play.sooplive.co.kr/sellkey/290669280"
     }
