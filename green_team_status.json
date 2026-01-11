@@ -2,11 +2,7 @@
     {
         "id": "e9dongsung",
         "name": "추멘",
-        "is_live": true,
-        "title": "18시 꾸한성스크림 내일17시 크루대전 울큰고 팀하고 경기 [감컴]",
-        "viewers": 50,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290672314",
-        "live_url": "https://play.sooplive.co.kr/e9dongsung/290672314"
+        "is_live": false
     },
     {
         "id": "eunchr",
@@ -16,11 +12,7 @@
     {
         "id": "phs6162",
         "name": "찐랑",
-        "is_live": true,
-        "title": "[그린캠프/롤동/뉴걸] 롤이란 뭘까,,,",
-        "viewers": 26,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290673496",
-        "live_url": "https://play.sooplive.co.kr/phs6162/290673496"
+        "is_live": false
     },
     {
         "id": "imhanbily",
@@ -30,11 +22,7 @@
     {
         "id": "cosmicaaarrr",
         "name": "아르르",
-        "is_live": true,
-        "title": "💖 -ˋˏ`안녕 좋은 밤이야 (✿◡‿◡) ˎˊ- 💖 [그린캠프/롤동]",
-        "viewers": 10,
-        "thumbnail": "https://liveimg.afreecatv.com/m/290672772",
-        "live_url": "https://play.sooplive.co.kr/cosmicaaarrr/290672772"
+        "is_live": false
     },
     {
         "id": "angel000429",
